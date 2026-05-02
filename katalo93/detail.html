@@ -4,24 +4,67 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Harga Promo Katalog 3</title>
+
 <link rel="stylesheet" href="./css/bootstrap.min.css">
 
 <style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* 🔥 STICKY BACK BUTTON */
+.back-bar {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background: #1f8e03;
+  padding: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+/* FULL WIDTH BUTTON */
+.back-button {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 12px;
+  background: white;
+  color: #1f8e03;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+/* hover effect */
+.back-button:hover {
+  background: #f0f0f0;
+}
+
+/* CONTENT */
+#content {
+  padding: 10px;
+}
+
 img {
   width: 100%;
   margin-bottom: 10px;
+  border-radius: 6px;
 }
 </style>
-
 </head>
 
 <body>
 
-<div class="container mt-3">
-<a href="index.html"><--- Kembali</a>
-
-<div id="content"></div>
+<!-- 🔥 STICKY BACK BUTTON -->
+<div class="back-bar">
+  <a href="index.html" class="back-button">⬅ Kembali ke Katalog</a>
 </div>
+
+<!-- CONTENT -->
+<div id="content"></div>
 
 <script src="https://iljovitadev.pages.dev/katalo94/data.js"></script>
 
@@ -30,7 +73,6 @@ const params = new URLSearchParams(window.location.search);
 const promo = params.get("promo");
 
 const list = data[promo] || data["default"];
-
 const container = document.getElementById("content");
 
 list.forEach(url => {
