@@ -4,12 +4,51 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Harga Promo Katalog 4</title>
+
 <link rel="stylesheet" href="./css/bootstrap.min.css">
 
 <style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+/* 🔥 STICKY BACK BUTTON */
+.back-bar {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background: #1f8e03;
+  padding: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+/* BUTTON */
+.back-button {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 12px;
+  background: white;
+  color: #1f8e03;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+/* CONTENT */
+#content {
+  width: 100%;
+  padding: 10px;
+}
+
+/* IMAGE FULL RESPONSIVE */
 img {
   width: 100%;
   margin-bottom: 10px;
+  border-radius: 6px;
 }
 </style>
 
@@ -17,28 +56,37 @@ img {
 
 <body>
 
-<div class="container mt-3">
-<a href="index.html"><--- Kembali</a>
-
-<div id="content"></div>
+<!-- 🔥 STICKY BACK BUTTON -->
+<div class="back-bar">
+  <a href="index.html" class="back-button">⬅ Kembali ke Katalog</a>
 </div>
+
+<!-- CONTENT -->
+<div id="content"></div>
 
 <script src="data.js"></script>
 
 <script>
-  console.log(data);
+console.log(data);
+
 const params = new URLSearchParams(window.location.search);
 const promo = params.get("promo");
 
-const list = data[promo] || data["default"];
-
 const container = document.getElementById("content");
 
-list.forEach(url => {
-  const img = document.createElement("img");
-  img.src = url;
-  container.appendChild(img);
-});
+// fallback aman
+const list = data[promo] || data["default"];
+
+// kalau kosong
+if (!list) {
+  container.innerHTML = "<p style='color:red;text-align:center'>Data tidak ditemukan</p>";
+} else {
+  list.forEach(url => {
+    const img = document.createElement("img");
+    img.src = url;
+    container.appendChild(img);
+  });
+}
 </script>
 
 </body>
