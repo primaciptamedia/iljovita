@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Harga Promo Katalog</title>
+	<link rel="stylesheet" href="style.css">
+
+	<script>
+	let data = {};
+	</script>
+
+	<script src="https://katal094.pages.dev/data.js"></script>
+
+	<script>
+function showgrafik() {
+    const promo = document.getElementById("promo").value;
+
+    const container = document.getElementById("qwerty");
+    const link = document.getElementById("link");
+
+    // ubah link zoom
+    link.href = "zoom.html?promo=" + promo;
+
+    container.innerHTML = "";
+
+    if (!promo || !data[promo]) return;
+
+    data[promo].forEach(function(img) {
+        container.innerHTML += `
+            <img src="${img}" style="width:100%; margin-bottom:10px;">
+        `;
+    });
+}
+
+window.onload = function() {
+    // auto load kalau ada ?promo=
+    const urlParams = new URLSearchParams(window.location.search);
+    const promo = urlParams.get("promo");
+
+    if (promo) {
+        document.getElementById("promo").value = promo;
+        showgrafik();
+    }
+};
+	</script>
+</head>
+
+<body>
+
+<div class="main">
+<div class="content">
+
+<h4 style="background:#1f8e03;color:#fff;font-size:18px;padding:4px;text-align:center;">
+	Harga Promo Katalog (ILJOVITA)
+</h4>
+
+<h1>Pilih Katalog :</h1>
+
+<form>
+<select id="promo" name="promo" onchange="showgrafik()">
+<option value="">-- pilih katalog --</option>
+
+<option value="midiweek">Alfamidi Hemat Satu Pekan</option>
+<option value="midimom">Alfamidi Senin Kamis</option>
+<option value="midi">Alfamidi</option>
+<option value="alfa">Alfamart</option>
+<option value="alfagaji">Alfamart Spesial</option>
+<option value="alfapromo">Alfamart Promo</option>
+<option value="alfaweek">Alfamart Senin Kamis</option>
+<option value="aeon">Aeon</option>
+<option value="ada">Ada Swalayan Senin Kamis</option>
+<option value="brastagi">Brastagi</option>
+<option value="care">Carefour</option>
+<option value="careweek">Carefour Senin Kamis</option>
+<option value="family">FamilyMart</option>
+<option value="farmer">Farmers Market</option>
+<option value="farmerweek">Farmers Market Senin Kamis</option>
+<option value="guardianweek">Guardian Senin Kamis</option>
+<option value="guar">Guardian Lebih Hemat</option>
+<option value="guard">Guardian Katalog</option>
+<option value="grand">GrandLucky</option>
+<option value="hyper">Hypermart</option>
+<option value="hyperweek">Hypermart Senin Kamis</option>
+<option value="hari">Hari Hari Pasar Swalayan</option>
+<option value="hariweek">Hari Hari Pasar Swalayan Senin Kamis</option>
+<option value="indo">Indomaret</option>
+<option value="indogaji">Indomaret Promo Mingguan</option>
+<option value="indoweek">Indomaret Senin Kamis</option>
+<option value="indoheboh">Indomaret Promo Heboh</option>
+<option value="indogrosir">Indogrosir</option>
+<option value="indogrosirweek">Indogrosir Senin Kamis</option>
+<option value="lulu">Lulu Supermarket</option>
+<option value="luluweek">Lulu Supermarket Senin Kamis</option>
+<option value="lottemart">LotteMart</option>
+<option value="lotteweek">LotteMart Senin Kamis</option>
+<option value="maxi">Maximart</option>
+<option value="naga">Naga Swalayan</option>
+<option value="oriflame">Oriflame</option>
+<option value="smarco">Smarco Supermarket</option>
+<option value="susu">Suzuya</option>
+<option value="super">SuperIndo</option>
+<option value="superweek">SuperIndo Senin Kamis</option>
+<option value="hall">TheFoodHall</option>
+<option value="yogya">Toserba Yogya</option>
+<option value="yogyaweek">Toserba Yogya Senin Kamis</option>
+<option value="tiptop">TipTop Swalayan</option>
+<option value="tiptopweek">TipTop Senin Kamis</option>
+<option value="tupper">Tupperware</option>
+<option value="yomart">Yomart</option>
+<option value="yomartweek">Yomart Senin Kamis</option>
+
+</select>
+</form>
+
+<br>
+
+<div style="color:red">
+	Update terbaru : Katalog Promo Senin Kamis
+</div>
+
+<h1>
+	<a href="#" id="link"></a>
+</h1>
+
+<br>
+
+<div id="qwerty"></div>
+
+</div>
+</div>
+
+</body>
+</html>

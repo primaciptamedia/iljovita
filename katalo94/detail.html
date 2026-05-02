@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Harga Promo Katalog 4</title>
+<link rel="stylesheet" href="./css/bootstrap.min.css">
+
+<style>
+img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container mt-3">
+<a href="index.html"><--- Kembali</a>
+
+<div id="content"></div>
+</div>
+
+<script src="data.js"></script>
+
+<script>
+const params = new URLSearchParams(window.location.search);
+const promo = params.get("promo");
+
+const list = data[promo] || data["default"];
+
+const container = document.getElementById("content");
+
+list.forEach(url => {
+  const img = document.createElement("img");
+  img.src = url;
+  container.appendChild(img);
+});
+</script>
+
+</body>
+</html>
