@@ -1,66 +1,42 @@
 <!doctype html>
-<html lang="en">
+<html lang="id">
 <head>
-	<meta charset="UTF-8">
-	<title>Harga Promo Katalog</title>
-	<link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Harga Promo Katalog</title>
 
-	<script>
-	let data = {};
-	</script>
+<link rel="stylesheet" href="style.css">
 
-	<script src="https://iljovitadev.pages.dev/katalo94/data.js"></script>
-
-	<script>
-function showgrafik() {
-    const promo = document.getElementById("promo").value;
-
-    const container = document.getElementById("qwerty");
-    const link = document.getElementById("link");
-
-    // ubah link zoom
-    link.href = "zoom.html?promo=" + promo;
-
-    container.innerHTML = "";
-
-    if (!promo || !data[promo]) return;
-
-    data[promo].forEach(function(img) {
-        container.innerHTML += `
-            <img src="${img}" style="width:100%; margin-bottom:10px;">
-        `;
-    });
+<style>
+body {
+    font-family: Arial, sans-serif;
 }
 
-window.onload = function() {
-    // auto load kalau ada ?promo=
-    const urlParams = new URLSearchParams(window.location.search);
-    const promo = urlParams.get("promo");
+img {
+    width: 100%;
+    margin-bottom: 10px;
+}
 
-    if (promo) {
-        document.getElementById("promo").value = promo;
-        showgrafik();
-    }
-};
-	</script>
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+</style>
 </head>
 
 <body>
 
-<div class="main">
-<div class="content">
+<div class="container">
 
-<h4 style="background:#1f8e03;color:#fff;font-size:18px;padding:4px;text-align:center;">
-	Harga Promo Katalog (ILJOVITA)
-</h4>
+<h3 style="background:#1f8e03;color:#fff;padding:8px;text-align:center;">
+Harga Promo Katalog
+</h3>
 
-<h1>Pilih Katalog :</h1>
+<h4>Pilih Katalog:</h4>
 
-<form>
-<select id="promo" name="promo" onchange="showgrafik()">
-<option value="">-- pilih katalog --</option>
-
-<option value="midiweek">Alfamidi Hemat Satu Pekan</option>
+<select id="promo">
+    <option value="">-- pilih katalog --</option>
+    <option value="midiweek">Alfamidi Hemat Satu Pekan</option>
 <option value="midimom">Alfamidi Weekend</option>
 <option value="midi">Alfamidi</option>
 <option value="alfa">Alfamart</option>
@@ -108,26 +84,56 @@ window.onload = function() {
 <option value="tupper">Tupperware</option>
 <option value="yomart">Yomart</option>
 <option value="yomartweek">Yomart Weekend</option>
-
 </select>
-</form>
 
-<br>
+<br><br>
 
-<div style="color:red">
-	Update terbaru : Katalog Promo Weekend
-</div>
-
-<h1>
-	<a href="#" id="link"></a>
-</h1>
-
-<br>
-
-<div id="qwerty"></div>
+<div id="content"></div>
 
 </div>
-</div>
 
+<!-- ✅ ambil data -->
+<script src="data.js"></script>
+
+<script>
+const select = document.getElementById("promo");
+const container = document.getElementById("content");
+
+// tampilkan gambar
+function tampilkan(promo) {
+    console.log("PROMO:", promo);
+    console.log("DATA:", data);
+
+    container.innerHTML = "";
+
+    if (!promo || !data[promo]) {
+        container.innerHTML = "<p style='color:red'>Data tidak ditemukan</p>";
+        return;
+    }
+
+    data[promo].forEach(function(url) {
+        const img = document.createElement("img");
+        img.src = url;
+        container.appendChild(img);
+    });
+}
+
+// event dropdown
+select.addEventListener("change", function() {
+    tampilkan(this.value);
+});
+
+// auto load dari URL (?promo=...)
+const params = new URLSearchParams(window.location.search);
+const promo = params.get("promo");
+
+if (promo) {
+    select.value = promo;
+    tampilkan(promo);
+}
+</script>
+
+</body>
+</html>
 </body>
 </html>
