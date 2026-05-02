@@ -81,17 +81,17 @@ hero: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEz555i1qUSzZI9mpGXd9x8KdA4TRR75s7L6KB1yuLNazf3s9phOojDBHe2YqrFZvcLkCBimH7RugL-CqMHl-JtSoH7RD3XcD730Srf3uPedJF3QRfTwIMFQhqpEWWTC8rm26pMIAxZovQVPxT0qqJsURhP1aJPZ6YLuQR9BrZ9_-JIUU4TaBBhSeHw_xX/s16000/Katalog-Alfamart-Promo-1-15-Mei-2026-24.jpg",
 
 
-], midiweek: [ // 28 Feb
+], midiweek: [ 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKcmVB-YzDTwdn7PuJrjZlHAzrbbRwG-3hnvJTEfd3I8ryC9Z4TEZpYG1knHJYZHhJ_FrKEeLCCrSzamMtyRzSOVR-e97c9Cc0nph4vrUVnbURwB6XkFuZQsqqwtVjP3eOR2PZnZ2DF9O-0wsyLEYmDXPrV0xbmbfgWsFtyoPJmwzUUoh_UUwjcrqQ7DUg/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-27-April-3-Mei-2026-1.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP92C9AACeE1W1-ovTJ4mvhqWElf_GB1Z7krSjMTDzuJU_ELdRpf8Awe_vwRNhFCDl55N_ZOnrzNxUJD7Jdg0sm_TjinZj9EjlLZQ9mGkd3DzHP7WDaxHyzYCX03YnkjQBBZ6DssksoJ-gtsHc6tGEnofm5aS74hi1V-c_aeFVT2j3bzDDb6_XRP24CcOw/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-27-April-3-Mei-2026-2.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xWv41JDiJZ5vxcqLxMme6zRSSvoVCQzMV7kMrn2OgMigGqxEzDwjxiQx5UzuyHRN9BWXzwgWpeykg6biOqLc7f6IWJaiVZarhpRuVLke5ju8V7haJaO6hJmkWNGIprg0hkrtnhh9g95NCy2PmWvEQfKdtjszu4JT1ZXIubxvnlMfbibKsF9LaYmuxzEz/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-27-April-3-Mei-2026-3.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_cFbd6Q3LXPHSFe6LaiTEwZSkt-tioOzpHt_j4gAJ_C26Gp7zfHiCljw2GUcsWpDiJ1OdqHxW_ugD_LpDUMJOKbCE5IB0cucLP2YaiJB1WgLpPlynM9SuBBwx19mghJhmOHKX2Nij1NSw8_eBF_NZKIKCWJTB6gw9tGtG6UwJ0ojH2udSxfWOoSg9QaJc/s16000/Promo-Alfamidi-RPM-Periode-27-April-3-Mei-2026.jpg",
 
-], miditebus: [ // 28 Feb
+], miditebus: [ 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSrt47jEcgwzl-W-6vGUK0C7BSCjMALOf72JSLYWxVwX8tHhahf3oeH8p9YEUix0eKhdl7Phlih81YJu2eX8f1nA87nM9_ztNNTYGqovTnMalSF7mLE-EG-BlZE9rBndjs-DTv0g1Qq18NxFeMPD8P22SU4CompEOorlxrMHesYiaJh7IJcEoyJKEUtG1H/s16000/Promo-Alfamart-Minyak-Goreng-Hemat-Terbaru-4-11-September-2025.jpg",
 
 
-], midimom: [ // 28 Feb
+], midimom: [ 
 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPsovAvYJgydRgw0nf9lirvxR9kqabGmZnQXw10jq3Ox6arucPZVV8XRZT0vNaiW41OW2oqPosvbCcJ8mSSJKBccG6zTiA0BkKvM_53nlWHoiFgegqLdtGXU14wA5caiKesmsJ1zMdGFH-DSoohX8VFTvdUiUFwIqFYv3LzGwIKfU8KOpB-4-kpuHaW5W9/s16000/Katalog-Promo-JSM-Alfamidi-30-April-3-Mei-2026-1.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBhLufXcKy955LUuweZa7vRp-uEv_n0JmcV6W-nswPGfXZpURVFXjy1g0WKQdzlx4Wax_SUbYMqOeClyt_Sb8hOyP9iT3dHaCMBvFpfUWIVN1TPlHHd2tGyqoEplm8VYMAeaWiYNNK10mZXhFvAFWqdYh1PryjBD8u5mPaRIZR84nvcb7saafQ6ya4piMF/s16000/Katalog-Promo-JSM-Alfamidi-30-April-3-Mei-2026-2.jpg",
@@ -99,7 +99,7 @@ hero: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuWR9LU3aB0DtFnAnsJpj6eVmfbW-utHMOp5n2wqD-mEfWesO2opQJaJieYiYUOiMqO5BgN_HxKKjdYfNdet3xGJTu1cqLqhBMkGphE3wudMLFjwINZV2dxCUDo195QmTBBR92M14BbNbY9E3RFTvlNxfK5WNAdAf6DFpt9qEPprLcCosUFDHTt4ybC2te/s16000/Katalog-Promo-JSM-Alfamidi-30-April-3-Mei-2026-4.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie44vClYvmnHNTAz0JECJqtIpGySxLlnsaTF5V9NSlIwx-Kn_NfSbnWVM6zBJRz_L3wQUdPTRB3d5X1C2ca-n41fXk2k3KnLRMQ92ZRx2NSAGmaLIiNZN7D_zD161kzORHM3zTyKA5yGuXXZDogdyEXZWcf7UPSCb62UpGBcAqP29z2ZI31pVOMOfK_E3Z/s16000/Katalog-Promo-JSM-Alfamidi-30-April-3-Mei-2026-5.jpg",
 
-], midi: [ // 28 Feb
+], midi: [ 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK1T07Hjtf8RFFnospNXLbUDD3XMwujCMLPM8DcfKE-gzWyMxLwZ6oB2S7zU_UNZpjhvW-58VKIgBfZUZhukwJpnWVC0v-VzpnPlxOuYvMPeNGFO_sOYT1nS3QqhdgtMtjFl1kF0t6TocVhSNxhBat1JzW1nFCkdfo4g-ZoSQqpw4VGElSaOrpIPZxWFY9/s16000/Katalog-Promo-Alfamidi-1-15-Mei-2026-1.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP5EsdLmo8DG8t6nu2LHsktaAO99KxYQ74Cz_hKztgvR8T2U75KnU1GKO3sfVta10l-wQNLhCbUtcGTyWnGSwP0_DXPxwpIkDNKNKsaaiZftosTzZs6hk1x1L6ghQ0AmsjbD4TPuRfOwWm5NiUcFNmEttS7lKGbIw3mjPgu2WrOzsX53nIzoxLb99tCKg4/s16000/Katalog-Promo-Alfamidi-1-15-Mei-2026-2.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2TDVFlrSqyAc6DvcBAzXFNv5H5p_IFSqN6j_pFWa3YW2NyJ4zsi5jXYsmKHektvWaLAdfTrV7MYFHxqlaRYpuej252tFXTpsfCdXtdzIuNZG2TudXkuXJTN4phCYseHMz7a9MeIXTfw406BgNzFHP4Ts2drWdoDaK5rQkZoQHdDliPxEiDy5qLRHWaASi/s16000/Katalog-Promo-Alfamidi-1-15-Mei-2026-3.jpg",
@@ -124,7 +124,7 @@ hero: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcBA0Hzxhj4-KS4ckx3Wm7l4-oHSWHyz8FtK_Qa9wE1GYXB-99GPum_k3hJcaDVv5mdn5Ebxfcm1iVI_sP5Zu2fIBkGcKSGWTmAxQLCMs0wMlj5dLLXa9j-uDK4G6IEcnzbT4r1OgIne2BxILGdHNpLUyM-2Kow4UmuxVuGEqHIptrmFprne9EE1zyRC6f/s1600/Katalog-Promo-JSM-SMARCO-Superstore-Terbaru-30-April-3-Mei-2026%20%289%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUtsqz3PI05IGq6TZlYahfeNaxCYXzhQsPBuCfXjgl0bpO_lZPOFqFLObGU_h6eyRNXhnKpuPrkRJO4ZdhlA5llKD8PqGayF846MggIaiDYO1S6Z-ROdjJzFLwHlL3eKIR2b4V6me-52HthoZMwW52SOavgP4e6pxxDiL_61Xke59X_cIvhUhW_tBAt7Zx/s1600/Katalog-Promo-JSM-SMARCO-Superstore-Terbaru-30-April-3-Mei-2026%20%2810%29.jpg",
 
-], indogaji: [ // 22 Feb
+], indogaji: [ 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YY4_yfqN0sRq-7o4r0Mi2XV5As2JJbgqfcTon3ZFQU0cejNOOyoiCKuE6YoNFxaqA6WPrDUNpK2KRriGNGsIQmITDRUhqB_AvZGD0DzIx7-nu98NDsyhAyD81V9Gfr6FrZ2FC1TjbqtNdWWMMjGJ5eMp2QScS19Bjfl-M85kZk-WVaYOAmOrgC48aIiR/s16000/Promo-Indomaret-Paling-Murah-30-April-6-Mei-2026.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKFeMLXEyaEzduadh-tqgB1TvuA2btFUoj45e23QQjSYGY5YAGZXTyvGcHZ6d_lT_nDxAcJLoH5QXBfJc0-SPyA448pKY-XP4tpBUBk_UyE_lQA-LTT-I3GwNzV4erCnxFDQhcO41RY80xDLfRRnzh3DtHPCmZ5IvhOTRKmtFxtgTLzoaT_0zhhZ7OIceg/s16000/Promo-Indomaret-4-Hari-30-April-3-Mei-2026.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiELPmCViP9D0mzWRgwv7gcKU7ssw4l8y_s_OzVs5XcM4-oRmV3jXgU0gClq6rBgrR_nVQ3d1_7rdM3P2FECmlgt6IPqrWIOr_gxw6RKGBlcYUDaZ__Pp4GVcxXGNUI3lKGVzyU-TC52_fA2_w1B0STvOhH_2xOnbSK4N7a8yQlk5hPA0eF-UJ4PDQiUnyv/s16000/Promo-Indomaret-Harga-Member-30-April-6-Mei-2026.jpg",
@@ -132,7 +132,7 @@ hero: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyWnQvFnztcMPnucO5t2AZ_G4RaHGcXkwCSFyy4_DUlVoyRVbpFiwu_QU4H4ZrrHljIDy_TcI9S6FuQ1UU_Pq_i1DiXpFORO4pNEH87RbPskD9pI4Ke7nIbXCsTg2bHkgFFg9gV_2webEsMM_k7O3b-fH2LqNBuJTSSLhPh_9ohkpgKAzDVRvFalJOGcc7/s16000/Promo-PWP-Indomaret-Tebus-Murah-30-April-6-Mei-2026.jpg",
 
 
-], indoheboh: [ // 22 Feb
+], indoheboh: [ 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YY4_yfqN0sRq-7o4r0Mi2XV5As2JJbgqfcTon3ZFQU0cejNOOyoiCKuE6YoNFxaqA6WPrDUNpK2KRriGNGsIQmITDRUhqB_AvZGD0DzIx7-nu98NDsyhAyD81V9Gfr6FrZ2FC1TjbqtNdWWMMjGJ5eMp2QScS19Bjfl-M85kZk-WVaYOAmOrgC48aIiR/s16000/Promo-Indomaret-Paling-Murah-30-April-6-Mei-2026.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKFeMLXEyaEzduadh-tqgB1TvuA2btFUoj45e23QQjSYGY5YAGZXTyvGcHZ6d_lT_nDxAcJLoH5QXBfJc0-SPyA448pKY-XP4tpBUBk_UyE_lQA-LTT-I3GwNzV4erCnxFDQhcO41RY80xDLfRRnzh3DtHPCmZ5IvhOTRKmtFxtgTLzoaT_0zhhZ7OIceg/s16000/Promo-Indomaret-4-Hari-30-April-3-Mei-2026.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiELPmCViP9D0mzWRgwv7gcKU7ssw4l8y_s_OzVs5XcM4-oRmV3jXgU0gClq6rBgrR_nVQ3d1_7rdM3P2FECmlgt6IPqrWIOr_gxw6RKGBlcYUDaZ__Pp4GVcxXGNUI3lKGVzyU-TC52_fA2_w1B0STvOhH_2xOnbSK4N7a8yQlk5hPA0eF-UJ4PDQiUnyv/s16000/Promo-Indomaret-Harga-Member-30-April-6-Mei-2026.jpg",
@@ -140,7 +140,7 @@ hero: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyWnQvFnztcMPnucO5t2AZ_G4RaHGcXkwCSFyy4_DUlVoyRVbpFiwu_QU4H4ZrrHljIDy_TcI9S6FuQ1UU_Pq_i1DiXpFORO4pNEH87RbPskD9pI4Ke7nIbXCsTg2bHkgFFg9gV_2webEsMM_k7O3b-fH2LqNBuJTSSLhPh_9ohkpgKAzDVRvFalJOGcc7/s16000/Promo-PWP-Indomaret-Tebus-Murah-30-April-6-Mei-2026.jpg",
 
 
-], indoweek: [ // 22 Feb
+], indoweek: [ 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihMsLWv25xoGSszn6Ov6Rf875VcRa3IU9Zzk7_f-5D0dNdm_4Wn9snIfHKQUxpgm1dHNPHJRIVQj1SXrzJ21o-xWgQgok4gno6mCjy3jqrll6JayEi1UBNVV4fBp8Dh2aZm1rvSunUXJl61pq_uww1xEgOEvzv93ITLwW61lT4qzz04AJhyphenhyphen-G3Mri_P7ei/s16000/Katalog-Promo-JSM-Indomaret-Terbaru-30-April-6-Mei-2026-1.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPi-dNj08kfQSDSs4kGe5DITRD2Z0yQRLChy2XL0ZRIDiMVnRZt-fIIY47XOGO3uhyVWslGqTm4x3DYt9RMNMnX6N-rXP9f4B35F1PDCmuUxn_jmcXTSyB0q-RRliOjrq52U52pcXvu7SEXzNenMc9iae4iaUOwj2NH0ysDyUAJncudzwX88NpZLJD4Joq/s16000/Katalog-Promo-JSM-Indomaret-Terbaru-30-April-6-Mei-2026-3.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5dn1tnnxEMs6iLVdAPrb7hnjWd071p6TqCksdRRA5vm_V8y20N46rd3TcUdsj9Uo7M_kUbrpgWxMdr9hpV_IjC8_oY22nC1peZLAkeTA27z_3XXVfoaqDvYGGK5scohqjeBc2ZYMzWKpRLDHbqhdjLAcVN7q7lodWhqlFTiGJ6V_MCHFSVt39DpYND_Q/s16000/Katalog-Promo-JSM-Indomaret-Terbaru-30-April-3-Mei-2026.jpg",
@@ -299,19 +299,19 @@ hero: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSkhm5W3AQQkxF4dUx8mAfE2cdT2Bvrx1ua_Tpn4RF1JL2W5FgG3gageiBo-ujqrCXIagAikTozzWi5ZWCh3Fyt5jMG6zVwj09LNnQICcrJCNJkxPOrmOp88bLrCS-eil_Zv7ismY82wk9eW_b7IIelxxtjgRaN6WOv3wxwYx0m4nbWkoWS37apUs8KbBP/s16000/Katalog-Guardian-Promo-30-April-13-Mei-2026.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv1KeFD6bqI6abEUBhtzuFFp3lxtsQ2gDaMJgDeF-AfHRUWozMokfzUPv99aWBk6Lo_0npaHS6p9VMnubbtlVNSqRvJwXupLeUHlUXqzdsMk6Cfg4Vatjl4b_H19u65O08Uc3a-qN4VNx_-c9OuiFjJs0pYgPncT1pu99dSqoki5T5y_Ib11n85ibIYVHQ/s16000/Promo-JSM-Guardian-Super-Weekend-Deals-30-April-3-Mei-2026.jpg",
 
-], family: [// 22 Feb
+], family: [
 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiszHZwAZnwruskUboQdX0bzGO8W_iA9Fa2bTN07pNrpLv2Ma_9wsYw5y981LIqNcUE5sqcwhKXi_IQ2eEQFQoQ5KeHBb1xOHp2ZiFhtnbqc48Fh3kRjvlgVcOOoPsxi24GaRBVF-rUpFEGEUU2Aa6Ykm_yqC64-OT7e_9x44JRb4Ug3_MCfPrTn6P__5C3/s16000/Promo-JSM-FamilyMart-Weekend-1-3-Mei-2026-1.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUGBaZbAiBtimo7j_HKNLMhvqE7i1hKwEfJtPSqC_kCwYFNH5CXWOCaWC_-FnPK2gVF7KfKFITV1qSldKPCg56zi0aVFaP2gw1ZJnA085BeHFANGtV0EJynB-tDgTNd7JC8pYeb3aFiFeBmIvLF7q6H1d5J7aQX1jjct0RDID1kTcRxhPp4JRs_CGTZRkt/s16000/Promo-JSM-FamilyMart-Weekend-1-3-Mei-2026-2.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-o_a5J0R1H3Xa4CPByDbgWFPt3yfD23Pv0Zpzk7gi1ezebXI1QtVw4jO2RANu6vzvXlm6T7Jk80d8_McX49EFKN0nsKzg4TDIoLzj4b4kLqFe15ndzuYn03QrxUlaPKxlFSiWxjXlV5RorSwlvVXRrny8JbRjb-sB-BIh9V0M3fEl2ifZmNoqMd7u7CUo/s16000/Promo-JSM-FamilyMart-Weekend-1-3-Mei-2026-3.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEKc6fxAyXYKOkRUCXsOh6Ykj7iwhyphenhyphenuowyXKeFs-nyKuaDAMxIFWbvDw8yF_ruYep8bwntl3evdsu7a3t1JwLSi4lysD7KH1jD3PHqQ2CQVTbJdAZ1J4-73G8c7IIPSM52msEkwiIMoyi3PUkOroCpo-Jn2TXG_RnV68sOugjjkxd7eFFTDj4Lmpnn46e1/s16000/Promo-JSM-FamilyMart-Weekend-27-April-3-Mei-2026-1.jpg",
 
-], farmerweek: [// 23 Feb
+], farmerweek: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ZmORsHijJoLnqaoqbdb6ViOSRnAz0cEJ-VoelPivPOWth-poUoWloRBiS0CjS0OkqoUTHl5U1t1AzmhaepldxXLp8RNtL3jxk1rzM3sN_jOsD39P0ch9iUvumIEkcV3Pnaj61P3CIBYWzQdbsQW6z0HsLIUDQ87gxciMFvrwPaQPbR4_76EtzLquO43C/s16000/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-1-3-Mei-2026-1.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhugxHQla36YVljLe0SwWFCOr9nXxgikp0vyo4p4uaquj4KHkwEXq-cZvfYhvlYe-29FSPfN5poa5xK1tiXCkDiL286A3tWSzeDln60EMbBJdc59sgqLDxtjnZvXzpGUQSrvSBwH7EyiXIh6g0-mVfwtyf2n7qVG7kMC9WgS7NY9rm_VljApuil_QL68DD1/s16000/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-1-3-Mei-2026-2.jpg",
 ",
 
-], farmer: [// 23 Feb
+], farmer: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqzplgHHswzj9gYZe8S57HiXDXQNojH53DFXF2k-GTCDyvFaVRIHyelNCSd04pQF3-qylO945xMtSWFPQcKNt7SwooEW1zyDnWJP-DEl4bFWTRbvDQeCVTwExU8V9SdimCqD3PPOjcvf02tsBjdSj1UvrTgpDpQRgBzLVoCFFaes2mkgdEN6NpTpESJU-K/s16000/Promo-Katalog-Farmers-Market-Terbaru-24-April-7-Mei-2026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix43oL9rSfGI7CEx3l-9Wk6nvKNXAyejiFdI1Q-2V-HqbHpP6H7EmluF9iIhaBJpzur3ujFgbvOJsLuMohe3TIUMCIVlra54AmdtbvFS8TGHsQoKcZK1nATBE3sW34cebFiSJywAqxXHdzfcdReVlHG53JMyHHDMlVtByCQ-AfRDanQmwxUFor1j50aKzR/s1600/Promo-Katalog-Farmers-Market-Terbaru-24-April-7-Mei-2026%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzDn3b_geicMVhxh58VPoGU5c2Vm1h9XbEjj8up5YeTacoURCetgBkC77il7auwx_DUDQqaFnsG5FDoNlAtqi9F24180yX9OB_YJyxr834CD19kztgQuYnIHW08Bz52vX4dSVd05ln5oOdZ1wad7V0K1_3_jGIFQhHCDynjcTBdRZ5gPKGWFGDXt0wjMI/s1600/Promo-Katalog-Farmers-Market-Terbaru-24-April-7-Mei-2026%20%283%29.jpg",
@@ -389,7 +389,7 @@ hero: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcQLbZ9uNTQouvp8C1Gp-D3ma_xssl_fWP467OINYv1VfaEfz_el76gsBgqY-hqPVof60eoevYnJV5IiaLdma-kgzxDTmctsYPjbEgAJNF5Hi23is9I3XoTna9LtBYU73AtNZ1jl3FHH_h7ILVvim30ZjsTcWPPX3frAX68pLehSpZsWS5JyJTi3_Bb3f_/s1600/Katalog-Promo-JSM-YOMART-Weekend-30-April-7-Mei-2026%20%2813%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCNK-LxOn96SrQKAhny52I4tgpNFoOc4bRz1gbJUhCQ89n3FNqU5t1_2XPdAxx1E0TCaOLHpFvv9I8XHAIgJPZUH7OpVIqY71wGo8sRw7mkiAtV_J16LM9iGBBSd47xyB4cKFkFNiPxIORSvRIdr29CZZSTLVT4pZBiq9ROeeoTD0mS8AoXYOVtqh8_MRT/s1600/Katalog-Promo-JSM-YOMART-Weekend-30-April-7-Mei-2026%20%2814%29.jpg",
 
-], tiptopweek: [// 28 feb
+], tiptopweek: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXOfE2yy8wYdwGPkRIrUZQKxJvaCIqpTtmVJszDeIKkcbmwmiolDelt4C3PJ15Qwkp-_5X_KhHo3mOoQHR5OVPnX3otitidDUTKghzJ0KogBZz1QbiiP5B-d7ACAIza110iGl8F9j4UlxvX_0EqiNKB9_T6EpmvgpnA7hKSZomO-ipZjytYIfnbYiQloyV/s16000/Katalog-Promo-JSM-TIPTOP-Terbaru-30-April-3-Mei-2026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil77TJU4_-zNyA1pxEVlppp3mwGqLP3qA532oNw3dGWArT7uHNBHVLxfyA6HOneh8pCcNyHRqzi-PCguieHApOXluiN90drl8scveK1m8aj6WbNgTqGmFZufDR8Ux7aroEvzVR7prkJ4saSnW2WQiwSuuJ8eihcAkqSL2jh6wM9IajFSOk9ibZmG3beaoj/s1600/Katalog-Promo-JSM-TIPTOP-Terbaru-30-April-3-Mei-2026%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7iAVV9HOhEqiyAOElmaQ9yvcUdGt5S5lClHwxvty9Q20OkPUm6BZvPUBbXuUkRwdU3joEstBOChWVyqJiSDmEz0fJq-oRcDDOWyaqyN3QvNtCU3jL0oFsVQ0xLer0auBmqV1j3aWxFsuPl-xYmBVZKYQzJTadaVg9D2Nev5bKpV4T_Vn3jNJtOsTMh_BE/s1600/Katalog-Promo-JSM-TIPTOP-Terbaru-30-April-3-Mei-2026%20%283%29.jpg",
@@ -398,7 +398,7 @@ hero: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-AV89zcCXBNyWwyWMLCt_hOb-cDnttcB2a-vYZxG0qoDKsaaGxLMw3Mqa5Df2kf6uY6FQLimnCVjCqhjuV9awI7S77CBNwCxDeISTKOPUEXvsSgD8AnRcAPHgteoWhLFz-1nVYTT8wd9JjYnNICFqMsWOvreqWY6TFgK5pX3XY8jmtj_JiqdFTgVxr-K/s1600/Katalog-Promo-JSM-TIPTOP-Terbaru-30-April-3-Mei-2026%20%286%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMCZJE5Xswmi7hmBod5g20FX6bBLLFqcD2bw1lma6__wWRb1dAIbFm6bE_Yp3rsiDOTlsJzrR3bfQNp7i7eIrZc3TdesfD5E_JK4VVg8z7EsBofqEaTrSgvGFgHYiNrgtNI5e7vPKd4TXETwxSg1TD-SJUfn8MmeFO8KgLJSw-h_mLp_uv6DjYBe-bkNLT/s1600/Katalog-Promo-JSM-TIPTOP-Terbaru-30-April-3-Mei-2026%20%287%29.jpg",
 
-], tiptop: [// 28 feb
+], tiptop: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMRuC8vQnpGN5XzMLjkeqHmOWzZr6TpGAIJzN0_rxQEiizFYy3fFmOjN2KD4p3T7k0VlR5w8yoFNj_JmgAzMG9P6lX4gVvkLfS62bKm3EGuFwRtnJ5rp1hmnZpXMeLBGmohmVVFlgLJ_yy7nvBD7OyWvs84AfWrIYN9CJCXNbeJKpt6MzAUiOXtidj4OIZ/s16000/Katalog-TIPTOP-Swalayan-Promo-Terbaru-1-15-Mei-2026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH37yCyJHX_skVte4vrspO7Fibr9kcsXsIrsL32saJmqLpKS45mChgPU3D_xmAHF81-rzrNlw3W8eAqDy3hEXw73aoTaFfy6wzF5jCr6L3rCf_h_zu0yhpQsX1X8VLk3BCT1kcasN_aML7IUzXq1swUpX-c_0sxG9NHt_cGOUV7O40dS0ffRuVL0ZpAbym/s1600/Katalog-TIPTOP-Swalayan-Promo-Terbaru-1-15-Mei-2026%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoRzAmeegHNIKxM_e3LF6A_6su1T0k_HRiblmrDtbotetwLDUgJodEFnPXb95yP5e0VQIv8A13H3hHVsgbylfUr7Q6B60ig5-KTdacrhGII04krs7CKAIF5coMNACOQjaPaqKQ5-J7hV8nDXnNJBfwnkgzCdgnT8z-XF9AMy77cCreK33QFyjV-dTkhUo5/s1600/Katalog-TIPTOP-Swalayan-Promo-Terbaru-1-15-Mei-2026%20%283%29.jpg",
@@ -437,7 +437,7 @@ oriflame: (() => {
 })(),
 
 
-yogyaweek: [// 23 Feb
+yogyaweek: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc64GqcQoyMMKkxke_XC0fzX5dLaCiBhnRLvR6A11zx9ZYtTYTaub9nBB4I2CBP30Pr5CXVg10uQn_gBCw72h1wpFkzEcdbeF5gnrECOBlhRHTWYPRl0KaaAOfztWQuMpEyzB4UaASEMbrsX6CDxNGpF0tG79QgLCwkPP_GZu9PHvwvQJNYSThy29yAsQK/s16000/Katalog-Promo-Toserba-Yogya-Weekend-30-April-3-Mei-2026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvVujH_B0dyx18D4VK2o1DNQQcvKrxg8GylZXmQJmdT4QjGiaD7XixW2N1CxHJOrZSVshZwbos3Dzjg0-2P4aIZRiEtvcJHb9W0S3NklZqxXdrytYyznDi1kGmJJOf1AIrGW7YNWXCNJbvkp6PZ2nQ5KWjXvrtD5bDZtbH0vOovBXIpALHHHNK96FkipVL/s1600/Katalog-Promo-Toserba-Yogya-Weekend-30-April-3-Mei-2026%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh09wVopBd70PO1UUFAtnSWhpwrg4R8-AcMnYoWoAyn8r2vvdE9OYylFN_D4psy1YuzlE7rTmBtyEpglVs6l0NyRM6NhZl1Tttd3IhE7BDj3lq2SvSVUDvzGALtIROmldVE0aArCLeIPQ3PX5VtgfwSiKBuIx5RtlJXhbRVHsvNmic8KwKAi5LGZOj8BhpT/s1600/Katalog-Promo-Toserba-Yogya-Weekend-30-April-3-Mei-2026%20%283%29.jpg",
@@ -461,7 +461,7 @@ yogyaweek: [// 23 Feb
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDoUZs1oHuMb9Du7R1IycDyobJ0bqDMfpEMmlR-5-IiDhfNvNCNjBPc7AOPBweb0ea5gWn7kvMzFD6MFjcSfqvbs9iUZxvdc8zI1H6tvQVd230ML_eVvHIbPh7ZYWuMcek5SNATzUZusNRaZfsz4MLkMZPIYQhTRIWRIlvfp0AWhMl7r1Ukd4C9mF4vgWq/s1600/Katalog-Promo-Toserba-Yogya-Weekend-30-April-3-Mei-2026%20%2821%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpwKkLD9OgQL4cjaDksNkHTfYP8wDDm14iy7pO9cM1y1Xb40TR52Y3aXOBJMyLUVI2tpL0ZRRvyNE3jik4Dk_0G5_TexVblEri6LWbMDiA9lq4znJvVRQIwHYGiG2ReupHfIawWrvsiLnlFEv06ebLN2FLcIz4VOb1UKSe-cInTN8EtSE-Hp3XNE0d4hIN/s1600/Katalog-Promo-Toserba-Yogya-Weekend-30-April-3-Mei-2026%20%2822%29.jpg",
 
-], yogya: [// 23 Feb 
+], yogya: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiklBoqLev1RPPdRV391gJkwDYk8aKvqKAdmcqVSZlF7cbPmg5t1NO55xtK8Rwf2WU9OKw5vEl4QODJ9IJhTXcaWolueRaw7isHr6s31JBaucPeXI9FNi-xTwCP-zC8MX_DpqglTN-wAODXBtf5syfJZYuPYFRDNcv2bdZ2k7IB3jV3XLMjf1ViCNbqr3cX/s16000/katalog_toserba_240407052026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh692CVUJf2wrWwZNcWnDn_vTo95kfw1J_guHBy-roMwvJx5VkKBozV4QcXjSHVydTG5bJYVYK8i9FwChmSudTvQ4Vb_8KnunyoJA_azKrBXQOAF02zk2ghzQ3iV21DLR_6v18ZER5z-Ylb9P-WKBetGvmBfzsRmuhlDAuLsJCtA0B9hi6cJwXyizqqPFYf/s1600/katalog_toserba_240407052026%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMptHmrxwGVJKQ6-o2mhjxPHutlGBCPGshF4HLTdqke1rjAOxUmk0nQim8X0QepP93nHyjF0d8y5Nh2MSGGlIYjCSaRyRtw2-PSdttRltTjCtvcAvy-_agk2Dv_ALLDgvq8KK7SsYA_IQXgci1g-McIc_KFlxF3QQ8NWmBuIPLOjQlxOrv61E2dABO-Ptj/s1600/katalog_toserba_240407052026%20%283%29.jpg",
@@ -493,13 +493,13 @@ yogyaweek: [// 23 Feb
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrX_L_MF7U9Wy_cv4fGuXwo3_LYS9wPeUTgxr9TTtDS1fgYqHaDQR_B-9lEGBPc6Gx5wUsfoA9boCOGQ620XddowJ-6H8NJkopWJLiD-rfLYZNlyPVNz1TsYL8_JPHm0AcHTe7VLdtVxeObVwzwLP8WxqUUGUHi7BioKvzz9gtLNBzS79VA1NLUIjMKzzS/s1600/katalog_toserba_240407052026%20%2829%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBK1RB6F93i3uYJhRfYCm1PIk4TFYk-OW4KpZ53dO6guer6M30WaiDKtI1S4yM16AVRe3wDiqjT92mwSGauAHXX5PG5yaWAuEGWDBoxio059Z9IPhaz7WB_gBHMKVz-S7R6nI2s2VJ3zR9zl8WgT1FHgg7Y_gvvqAUuxT_HIJKrOy1ya8NmUiPiXxz2z_-/s1600/katalog_toserba_240407052026%20%2830%29.jpg",
 
-], maxi: [// 23 Feb
+], maxi: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL_dS3tcndbz-1m4IbJUWE6SE6jbcd4Yve6Kr5JWD9szxP4-kUGdb8vcWHry0lA1kN5H2HedpLorLpWVXtBdUY9OvfsSIjWsJb8SBn7usIcKvRGtQyZwIAjflmwm0ByKglottmmrSv3qAWu3_oQX7xTy17nbc-X5pBSPYc0bCuc_G1pv1LBEIcKZd6AnaJ/s16000/Katalog-Promo-Maximart-Pasar-Swalayan-30-April-6-Mei-2026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2wxm4-H45HOVww4sP6BtLkoXtf_Z6PGTst88Fp4Vd0DF5HgJjfzMPHqeQ4hzSMn_c80n6WARCyIleb3hceUkWRxxqFEtQIghyphenhyphenFcGS0nC-yMaFLDHcm6R2jGgwtdxNkYww84Bdi7STGMosJ_M0GsNHk1UTYg6DDqRdRo1hu4lQ6IQKeDJLcqwxTiozqr0k/s1600/Katalog-Promo-Maximart-Pasar-Swalayan-30-April-6-Mei-2026%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinIgv5Po49O86UJRzkm6oxtaptaW-tcfn8RStlnHw3-bbAFZdyyxGIaaaUbhiK5a8sCK4df92FouQ0HFoYLdiN8gGcpacAyhVl9LWnGqB0P2kTGAFSGKb29Qu_mKZGdxg4c5mmX0hK0j09a2WBW_1QZ86LBDwmiOMU954w36zxXWaFKSVP8-9F0zc77DkI/s1600/Katalog-Promo-Maximart-Pasar-Swalayan-30-April-6-Mei-2026%20%283%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIYM8u8iBHcefc9tbuZtVSvwnsmRpDNlKe32HbcRn6cLhzUBx4sVfsq7ndVDr_zph-xuzGG-ZGZMmckhFTuRjssmET3f2t025rViWetq4QAULVmKBU0JCOAcidQOxgFh59Lhc200l3TjzhIDV-lX_N5mqPzgqkbIagrI6iym2inpW2ZOkj0lrs6qNQaWSQ/s1600/Katalog-Promo-Maximart-Pasar-Swalayan-30-April-6-Mei-2026%20%284%29.jpg",
 
-], brastagi: [// 23 Feb
+], brastagi: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMiRlcC_QnAQ731V0o5DlRtqQNCD9RNmrCp0kYWrdLutGFy4ZOQt1s1KNkcFqgZAhttqyjVyL-xi8wk2A1Q7jdpRYYjnI7JZMCLybq_jR9vaE-0tRg2moD7-JFHZuqmZ_SsDEDIBagCxCtLr_oOYMUC4kJOkhK-FAVz7v4G4aIQ7qLE71kW_gVYC2jAm_p/s16000/Katalog-Promo-JSM-Brastagi-Weekend-Terbaru-30-April-3-Mei-2026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXlOLO4eBRrVX_b96K-97UGKFs8AUGSHjG9WvRogsefEdyOszqTSrOG0A2PVn7p5oiVeLKhkIrpM58oPOVjcF-oNvQe0wFbbFjCiVcXY-r7w7EVx5ddf_iEgBb_yprp6sKyG_bA2onL3tiINKovhyphenhyphenh3kXci0DlSj45jOU4XsC_SiQT0QQg_Xrqt4IK4gPm/s1600/Katalog-Promo-JSM-Brastagi-Weekend-Terbaru-30-April-3-Mei-2026%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrgwHNArGcV8hKJnbSF-6U0-StvQ48sfCl9cnkSdho7KvkDQ7ZkActRXqKUB8PYZupZJG6Lf2piXxENYTEDyM1nRbE9qItyJnlU1xyS6rjVf5PdyUQUt32gvBxszHpAR44zNuaaIQAKSAGJEAgjW_6yvo7Kkj0cMxbmilGRg0VVnoinRlqbEosun7Fh1Uz/s1600/Katalog-Promo-JSM-Brastagi-Weekend-Terbaru-30-April-3-Mei-2026%20%283%29.jpg",
@@ -507,11 +507,11 @@ yogyaweek: [// 23 Feb
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYA9hZmK_-baHq6J48UQJ10J2mIWxpIJpwhtvOZv1oL0ZpbBGsy8XPsakGIe-62I-5lAdF2BuAkNFmvDYUDdjvZaM7UYyHr-zwTxSliMtU1D84bjxFsNWm07A4mcEffABRdR7yZkl4TIcgE5nJcODWg0uu1KNMGLsRCzft4-tllFotJu22sh7LHLah6l4A/s1600/Katalog-Promo-JSM-Brastagi-Weekend-Terbaru-30-April-3-Mei-2026%20%285%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-YoW2ITns7ZrPpFhZb0ymoPK1oyBTGPSmiBG7IP8NN_UlJMEnRSHbrFMkXlw4CpH2IPtJT-Rs0ZzgSjqiHYhVGAdrX3OOJLD2qz7PskebXGRrzeFdF_OX4_NNVwC4rY-FjlZmUgq6SMnBvFFXZTm6zekufp6wtq2LFXECKDTigYjWpSS4O18zKIm19Ant/s1600/Katalog-Promo-JSM-Brastagi-Weekend-Terbaru-30-April-3-Mei-2026%20%286%29.jpg",
 
-], susu: [// 23 Feb
+], susu: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmhBpOhQ2z2xC2hAtpH29QzhTU-LF4JcAK2RwCm07DAgRh4xhpp3Nk31odqigGCSIsS14W3P2jigGYj8LQTxlzR05imoNFyjLT83YAxnfE7QgTz-bA7KEIdvXK_u7yVu_pLW6ugrmM3ZsE_j6SyGnEmiIMtbpgD22rcqxV67Lo8Be1ro1tgMp-288ocdF/s16000/Katalog-Promo-Suzuya-Superstore-Periode-30-Januari-2-Februari-2025%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv96ZdmTQzajdqJMJJK2T2CtARV4KsNJnyTskdCJL4STldWM6WxzR4rPEngCRCwC0mCbJ4WUB9i_-DbZD7x40fPQMaFHTYzA0q-p_vH9tnsVPUVwL0kTQy0RDhzHb2adwXVhZSj0I4x3M6S9A2F06Qk1Ec71HMdQP4L6UHhA0RBZuehvxTFvXUHaiVrBq/s1600/Katalog-Promo-Suzuya-Superstore-Periode-30-Januari-2-Februari-2025%20%282%29.jpg",
 
-], samu: [ // 28 Feb 
+], samu: [ 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXmPnWFGQaYJLqKoc_Gfcqq8-JAXbGBcD_EfgDLCcholkcnY-97TLfgU11fLnO8hzbH6yVmRQ5kUrSy9l0MI-pekCPO8JwnRWaUGYgVwBqq_-EC7OJD_CjgJ8Z3SnQn6iFC8ddW4s6qE8IIJPhaUOy1Xvet8w1PEbUF169hCjjoFnnU4c9LqzfSZZ/s1600/promo-samudra-supermarket-16012023-01-768x768.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXe9N7-5ICwX5WHl7DuXvcruXcgBVC9DF9EdOA42Ez2QBeEGwfS7-I9z8qrvrquIDfPpH1lFamj9vUzNR0_BIcUQ9K-iEohLLD07OWPDxy3X6AJGcHcBGeodz0GnRQtLiuCLc2pLa7tuVq5tWqqqywZmEE6MH351UKU0jxtaKMfLmASapZHHxZg_1f/s1600/promo-samudra-supermarket-16012023-02-768x768.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4h4bndEfh3Cwv256xTdZtXxZ8sKGhhqFRhiA7dHj7ToiGO_GJDYNIRbUgDOO3KJpbmOWmQ6P1hIsdE14BUkotg5V8bVMFZBvInZHrd5I8kAeyVCkRIlwV_mc8SP8zKhltETFPh3tcNYtDMy6fRcDr9TPyFkHGTnIgLvZnJNtQ02T8ZfNFjbltiV5K/s1600/promo-samudra-supermarket-16012023-03-768x768.jpg",
@@ -524,13 +524,13 @@ yogyaweek: [// 23 Feb
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBbVexjLt4uP1j11bOQ9_1eCyfNC1jxZEq42VrUNh2slvg0xDFvgSMfFAH6KmkLFlXLl0l9heZ_XeQ-IH4b2EXx3h4b7f8aVGvWC8VoB3l1bkGym96BzRccL8DD1uXXaqD6JNCqVNLCegsxtj3iSbAob4DzAkFZBVu9CMMiGweO1qqJudrBIteQTeQ/s1600/promo-samudra-supermarket-16012023-10-768x768.jpg",
 
 
-], naga: [// 23 Feb
+], naga: [
 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJy1gHoJvq8syTjB39AnoMk-nUlR2DQgG-AlK9Na2tMQi6DtcnkOepgQDipgmH1I1CnNLa9tQVNbX8kXxn9raAKrjGUaUObTkFb-EbGlMxa1j6Z-SHczYbttagZ8cHr3LI3R6oHa1ws5m2knFStooxxyxYq74dn83Bpd0foB0v5J3IcqkkplFSCI61gnTd/s16000/Katalog-Promo-JSM-Naga-Swalayan-1-3-Mei-2026-1.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFlmkkStfGbd77FcZ30aW-t2Hv3UWpXPDb73PjsKGnJN8eJeMK6RzRQcljFKn2lL9w1B8j0pbVrn-tx6sN_CsQRiEXBKzRYxoTwUYbgdyO7C0STu3OQKEJemEt22RTKkfx8aq9OSJVmSSXPNMcx4b3Gu_9xOiHfrDkl6lBL7sKCg6SDwebIrxLYAvCyOPI/s16000/Katalog-Promo-JSM-Naga-Swalayan-1-3-Mei-2026-2.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXU-rpgSHrBq7so66dtdcP_c1XtPs-OMj4ox0rANalDiTASycdszSuXKYTXG4Z8CSYS-p7e1vM8kb1WhcDifEeFIzjsJjjVCKTNQCvWbpcuNruAwvo-0H8TUYn2URojrmuOAHNE4g2BeSfTuyYAsFM5kYYTiA3_vTgdDu4jGenJxNxBg9Sd4c2iZ5ojkCE/s16000/Katalog-Promo-JSM-Naga-Swalayan-1-3-Mei-2026-3.jpg",
 
-], aneka: [// 23 Feb
+], aneka: [
 "https://blogger.googleusercontent.com/img/a/AVvXsEjiTZyarI5HR78PMxyodZVt7S3N4MRSR6WW3_shakvrDi19LHJd1RsnzBFb1n-zISyS5yESARp44Zhx_eRJbIJ0cQG2SR2IAOCVqFXUdRKxo5BewswnHxaCNe2TsMtoRlzQ390jNVHrPtijKtfD8_CHEED0qR_nsyiE-9BijF3IOF7N9PbgZt_nG241",
 "https://blogger.googleusercontent.com/img/a/AVvXsEhJZwaVkoXHurVPfcZEXfeVLNCe5eHQBn--fcljjyAOF_sDyuuovZ5HhzS0JgKqogG_iHncXWetUQtkqLm1cP-MFN6BmzFkdB34lq2J8uXUpLDDgXHMx_2q--5LhzRxBviLJ7gVe-TZZQGGxLh036irWB7gdgo8Unt2iPDLDPf2gLYVGrvZGQOxvrno",
 "https://blogger.googleusercontent.com/img/a/AVvXsEhgDGZjyg0zfWtN_qMZV3h8bQSAER4BenQg6acvPm8ZM_7WkqM2-by5Oz2A0EtQuccg5SMTDvrJ9RpDqteJTqJGRx-5Iefvbnop35phwhZJbVh1aONNWkxR2jkLp5FjgyKXezs8Z2VhEwvtdKh81Sc3vyleMvM7xA9TnAjA8stHpDxN6aqSlcEmZX_z",
@@ -540,12 +540,12 @@ yogyaweek: [// 23 Feb
 "https://blogger.googleusercontent.com/img/a/AVvXsEj0dKMzeroMIzJUU0N4PGTIiHaVaXaHMfQThZq5-f9--n8gLfoxQFtxC6BDhcvWZUcmdFxh12WTZ2sewCFVmeTECOjqjzOHqL_OmolDIulb8sja6fZGda0JVkgeNapdtNj6VTZRKE6zTyruEO2tbAhVc_SfLMONXrkiWYq3zBI1ZFJEjEx75tXTOIHr",
 "https://blogger.googleusercontent.com/img/a/AVvXsEiuH76vccO6W567eyn2YtwjYERakEORypnA1jMDONJjh3Ml56CdNXM2LCMxneGBswMpCTx8-8RYlcxfB_5TOrAOb3JwCqxxpj3hwDcyHsIB8ROr7smeVelIbJsqPJmvNNdvnlwxjz8KVrEwwXJeXzE_5doae8Nt5hsT0qrq-CbDHDNli0vN5-Dh_krH",
 
-], ada: [// 23 
+], ada: [
 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPa9gZ9GQJbSM31rRWnggL9QMVMfiUeYAjsO52d-Sk6e0RT3FcWCUDF43HSmnouJkynn2BXBOLM-d56HTJYOydtXxUCvP1ErVT6ubaanpw9t1UoORcOR6tyo20p3eU0QeQOHa0QpA6E9szhqqWlk-ATKktYPM-gAxxJDKCidWet6ZdWoNaMQAJY2E9-aD7/s16000/Katalog-Promo-Ada-Swalayan-27-April-3-Mei-2026-1.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPbQqz8qWkliev1-avPpPeG8x97e-f608YOuo0NiAcL57iYLQ6VL6jpns8F192zt72kIPYqcZ3EuqN2h_ZqPYnyyt3IUufEL1sfN9jfgwcu4OWAuT1K2xvgimLHS-CTSMmd9LtGVZSzXLFCeUPyyjlSjCKdwuffMBzZMO7MdojEtSJ3p1GMrJpYw7nL0v9/s16000/Katalog-Promo-Ada-Swalayan-27-April-3-Mei-2026-2.jpg",
 
-], hall: [// 23 Feb
+], hall: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeMTGGiyy2frkL5Io51Hkidq0dqVyCKwPFA5b8TGT3HYQwzNIyfOAANTYD0a-tWFFhG4vT7jYl6JDQZl16TvcDOuKH8qca0V_L4ymQf95V66YWi8G2e-CPfgG5JK5Fz9M5k4TsINpHGQcXupkI8SjK-QEAVucdAy-Tjc6-EPtaQrM1YzE1Q1FWx9EnBRGL/s16000/Katalog-Promo-JSM-Foodhall-Weekend-30-April-7-Mei-2026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7n9BNt8WhFdkeW-67iwtaPwmmi1a-gSDQG-z-l3PEciYJu6kOvJjdne6FhJYCXNZePgvU057SmGkdspIsWtKCzKVM0dDV0aMEB75kIi3tAIxG6cI-9Ed6Ko5ALmo3VQpU5RhM44ucanmNvmD7C66flIiBICNhs9Nt5DB3MPog_CNDOK0H6C9WOOdwoALc/s1600/Katalog-Promo-JSM-Foodhall-Weekend-30-April-7-Mei-2026%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghiE7KFpDdR7NL1og8XvFgZ0XTelJh0w3DHHYry1hrPSiZveCgt6og4o4s4HsTLr5HKCr0FzPaWQ9NjdDFnE9FP6WLBRFKz1RESsNaW5F4FhenS2Yti6A4Zta_BhV4w7UdnUiKbcmwGWralCGHvJGIF8oVbEHVL22ZHM4D4TcasqwJNNNM4xIr1naK8pXK/s1600/Katalog-Promo-JSM-Foodhall-Weekend-30-April-7-Mei-2026%20%283%29.jpg",
@@ -564,7 +564,7 @@ yogyaweek: [// 23 Feb
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3BiEEDDlIzrbbZajtrlsXUXbrOmExJ__0Az72EN7bgo4nuRaN8sV1GVAJKRVCq5qJL60U565Mm0sSMjKAwbBDljyO6_zznUDAloCDO_ZMRdtIEMbynIYJVRQsvK2HYn5emrZamdbNpg9tNQBvUPfL6bxQbm1Wuvbqvq9U7Qw7r4tILyrBt3dyJEr59uf4/s1600/Katalog-Promo-JSM-Foodhall-Weekend-30-April-7-Mei-2026%20%2816%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj02HE36NwvdwaP_KkAJfW2cUkzsiCgGoKt1qVR3w4QYe-HmCeLv6UYWCdWKF6gTOSSlmNnxPujWOXTUAVoWMOlwuG-FNLeq7YCTgNjf26SLIFi6LCCZyPwW4WPBo04-DCCTdP58-MffSbQUWPuhvmDBDcrxA3LYM1wyq5syCIeoWvlSa6Jm2eaQRpToZBp/s1600/Katalog-Promo-JSM-Foodhall-Weekend-30-April-7-Mei-2026%20%2817%29.jpg",
 
-], grand: [// 23 Feb
+], grand: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYE0_n2ZL_8xLCyHd7e5RMpZxhrGZHiH3dY-h9gNoY0FlVV0RxqDCPdd3o-WaO8KHFC-y01ARbN9ThfaAdaTajjPEHKZM33kuiWtiXe6Dq1e56JoknFVXUs10l6nP8sYCPYxrOrw2P9Ei9Jm4Ia9ZHJxhPevQcAwFiqQqnEQhgeDFh-9CsA4mAQSram89n/s16000/Katalog-Promo-JSM-GrandLucky-1-3-Mei-2026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh42lwc3l6GxVCBZEeWNJzSCi0Inswj09qTDpwKNn89GUXX0n9PF-9H37KBP9MwTZkM6GHCu6Qj4tIcciEXB3zfkKRPlQOgY1KYhYhAfU_kTsR2qIVCGmBRiJBL3C6kHsgP-_spmLkHKxPMeAT0saysAsMZ60RomhL-eK5o0r_eSFebuhdG8ecOk3IwLxhB/s1600/Katalog-Promo-JSM-GrandLucky-1-3-Mei-2026%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLLdwsTsSyHz7xJiB7iwcq0pUUfU5SD8kL6wWJaeMeGltHgkLcKrWHeP9Z4ysByzhSM9GA8HYiOFL2iBJtDFzary5-T-qpxg9k5jayJu0Mg0DQKNEhicPhruACe2tNb7HFqc70PC9OGMB6ZeJOL3yBV73ykZUn39zWG3SMHp_F6jGtwd08jJs4b05TP-EE/s1600/Katalog-Promo-JSM-GrandLucky-1-3-Mei-2026%20%283%29.jpg",
@@ -583,15 +583,16 @@ yogyaweek: [// 23 Feb
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGzXO2RvV-_a0ngpumcVlbxO8apHiG-3qW6-_KPaIN_XTQAkw3h5QsdNKc8CS5XI4XGwg-_3-r2VLPzj1mu5ikJ4oJQO49PaaW5HZ95Qtrx4BvWkTWytSUoXL3N7edCdACmQd8gvaEJrTZUExVUNpqEsJPdY5z9jvoCos4guyfu9E9m-VzNquY8tRIlDg1/s1600/Katalog-Promo-JSM-GrandLucky-1-3-Mei-2026%20%2816%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLzaM4dz5muW1pkDIuBPoDjl8gWP52ra_M0M5vxrSsKItEAKxp_3eR0VdRKq98gapc-lzmwwmw51DinrdHBOykQ4t0OiOycwTSU_gcr5GnNKcsot21-xZWmjb5on5r5ByEopgNj-NIgQKD4epRcRQMVEJ7BxnYhmUV4f92_I5ISB11Jk4GYhyphenhyphen3vKeUuVr/s1600/Katalog-Promo-JSM-GrandLucky-1-3-Mei-2026%20%2817%29.jpg",
 
-], aeon: [// 23 Feb
-for($i=1;$i<=9;$i++){
-"https://katalogpromosi.com/wp-content/uploads/2026/02/promo-aeon-store-indonesia-minggu-ini-19-februari-04-maret-2026-halaman-0'.$i.'.jpg",
-}
-for($i=10;$i<=56;$i++){
-"https://katalogpromosi.com/wp-content/uploads/2026/02/promo-aeon-store-indonesia-minggu-ini-19-februari-04-maret-2026-halaman-'.$i.'.jpg",
-}
-
-], luluweek: [// 23 Feb 
+  ], aeon: (() => {
+  const arr = [];
+  for (let i = 1; i <= 56; i++) {
+    const num = String(i).padStart(2, '0');
+    arr.push(`https://katalogpromosi.com/wp-content/uploads/2026/02/promo-aeon-store-indonesia-minggu-ini-19-februari-04-maret-2026-halaman-${num}.jpg`);
+  }
+  return arr;
+})(),
+  
+ luluweek: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY21MxQsXaiR9ufzXwYP5mLWuFPxc-FFGemcgmRTiHTNmpbkBzV9qTLE5DFwSIgyrQMAea45GHlcEbJCgW6omfiWwlmSZOTjfyiVqXObbqs9USWkCN1mxPLnkwWdftmXIwBNV3JfG-CEVNt_-Hy3ctyBrMlinrM-uB7B3-D7rr5GaG4EtL_oHnLFSnZIFL/s16000/jsm_lulu_200205032025%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsiO6gkVXHa6zrXYNqAbyOY9GxmyNsVhbo0S7AZ6Xgit5qes5J-je07fSAKr3Q_fIelVHZp7PYea-2uMmlVT4DyUvys5zzhkDuIWJrP9h7JIhXGZTYG8pZ2Gt5IHSvkg1Q72pXxEmUj_f3vjgdPHuPmkeUNO8615b5W7CCrv66T1eD6FBh6hWh8G_Jf9xm/s1600/jsm_lulu_200205032025%20%282%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSenqQYI6b05sHNXnye-8wuiNeahWCnIx_kGErFG1z60gaqhsG7UQczzQjjU7C3kGFzW1-tBEiBZIvcstJ-859CyXbSwM2XeH-ZCNVjUU-qGnlnNRGaNeeUmHfNOeXdae7nzV2aKqEsoj_UBLjwrR9Q1Bm7HJ5o2oBBLWNUiN_OawMvxCq8I-AN39Fnalc/s1600/jsm_lulu_200205032025%20%283%29.jpg",
@@ -600,7 +601,7 @@ for($i=10;$i<=56;$i++){
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid-G4LLRXPBT__3jCJ6hhQy4ga7xH8kIX5yygYLSUkuEiEppKT_TIGF3oWUDgF0y41CmWs5PNFPWq488l16xFh4gCCrdSFgB_G_Hr1tjrLejkdoqQMFCbFvwWf3LyoASDlrT4nMy2jM59S9iDAxCONnuXpozNyS6r52Y3u0d5NwxaLdtgTD2vXmiptB-ea/s1600/jsm_lulu_200205032025%20%286%29.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqQtIadK8KSTN-2f11nVgoGDaRKwyQSZnT6r9sImZAMk5c7Izcc54i5hNnmXykFVxkVJjydk5kmtstlmAGq1WW0Tn_41q2AZ5TDcwWfbyPeWHtVjPn9vxvZ_p6yiCuqZgs118zeUFp9GcbdLouLoxIdukcP5lkKQxiFM965-ESYTCe6RhacMnjswpwTkX1/s1600/jsm_lulu_200205032025%20%287%29.jpg",
 
-], lulu: [// 23 Feb
+], lulu: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKjYnvcRCmygx2oaUt0BkGpYCNldQtyyPrBf067ND7wGRgmiDgQAqxvuBDSbDQ6IPorcBz_jeSTOrQH0hXny8SV-lmlrXjQWsfIBQj5HtelJvpF6m-KHkPDNbkWm9NwcbnjJMXVZyh4RRV2UY_6GsxuMVzjbviA6n7QpObuM7jWLpIAtWEVMOLhY8wBFZx/s16000/Katalog-Promo-Lulu-Hypermarket-20-Februari-5-Maret-2025-1.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMeFWwFSo9fzRySAsT3CATNArwgAjW6fCfqY2HmiQPxm-7dSS7729wL2AdBS3NLlWvYUIjNoXQvqRsdSETD1nBm0VoXQTScnpHgmCCV2ztNK-R1YQ9fF2Z8Zw94BD-0ILn3YRq5xCQxkew4mtl2quHfO6d_dEgHyY4vUYjOgvs9FYFViOgalxF12OcNksz/s16000/Katalog-Promo-Lulu-Hypermarket-20-Februari-5-Maret-2025-2.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbAsfF5l3rHYobKaWCGDpBcVevTagXuSDLU_UMUwN2bnpK0SNGVDUPJhY-1hIxnOi2VovI5lckHp04Qcy3kDcipGlafrjK3M6vCWsyU-xcWo_1vSJVbSzesg_C8-8CWovJELxPtwInSVZococjGh3ZmdJW16DaPZsRSaugU5dfz1H9zCiUBKH2hCBuFEFi/s16000/Katalog-Promo-Lulu-Hypermarket-20-Februari-5-Maret-2025-3.jpg",
@@ -609,7 +610,7 @@ for($i=10;$i<=56;$i++){
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgKr6fORCBTL2x67dXspd6ZB-yzEONCrKuvTpI7sx3SJW3T_bvh9DVU8fDfyVsGjsHcmC38pKgUcqYqDSCtdpN5Hv5erf0gs3bESYsL-ETNH2aqBiuo3-YHlkp6n9wbPvrr17GJ5-55dTcPz396kABaoEA7MF06KRFqi2kgve7315nE6ZJleBK3tl2gpwc/s16000/Katalog-Promo-Lulu-Hypermarket-20-Februari-5-Maret-2025-6.jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_bS0sF9g7RcRDidfO_Pu758avy8oDSI0L_w0MT57walu9FmHaO4zSo6_LH8C6z7gc025g7NghEPDId9zsY3EZrAd07tc7FkXdl8HO759znK0TpCQ7IoTvy0wdKo9FoBMYkBGwPNzw5p-mgtG-26idCaFQo93flp8uh8R0ekywiZ-PFiYetbIJyGnjriv5/s16000/Katalog-Promo-Lulu-Hypermarket-20-Februari-5-Maret-2025-7.jpg",
 
-], kasi: [// 23 Feb
+], kasi: [
 "https://www.kataloghargamurah.com/wp-content/uploads/2020/06/Katalog-Promo-Harga-Geger-Kasimura-Supermart-Terbaru-001.jpg",
 "https://www.kataloghargamurah.com/wp-content/uploads/2020/06/Katalog-Promo-Harga-Geger-Kasimura-Supermart-Terbaru-002.jpg",
 "https://www.kataloghargamurah.com/wp-content/uploads/2020/06/Katalog-Promo-Harga-Geger-Kasimura-Supermart-Terbaru-003.jpg",
@@ -617,7 +618,7 @@ for($i=10;$i<=56;$i++){
 "https://www.kataloghargamurah.com/wp-content/uploads/2020/06/Katalog-Promo-Harga-Geger-Kasimura-Supermart-Terbaru-005.jpg",
 "https://www.kataloghargamurah.com/wp-content/uploads/2020/06/Katalog-Promo-Harga-Geger-Kasimura-Supermart-Terbaru-006.jpg",
 
-], lawson: [// 23 Feb
+], lawson: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd3EWgsWnKSdAH_7BiMCO8Ks2mlwKb3FGiKt_6Z_hAhgxozsTpzrXXoTaIA7imw3iSanT_P67jPVBRq0iUv-Rza3GqxR5UnAGALnNrmCZC7UMQczh4PLZKLMspnoxyGHNXEfJ6R3snmPElGORwRu9WLDMLymfIMnSg_Y5KrRInVW0HsdjK5RmKp4FLkQTc/s16000/Promo-Lawson-Gajian-GasPol-27-april-3-Mei-2026%20(1).jpg",
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmjRl96LfHjfT-zBBBJmTN3JFcLhxKRmPOqHXoB98s7Jvda4atZF-nZ8wH2TvPfP78WuK2Xt2F68qFr4Sb0bRNHMuWm0hDUQuB8Gfobf2X9icOQmRK096nyaUBx95lYhUonBJqeZ8ggqLvQaiDm0h1x5mSwFkB1lfZxKsg4OiQMdI_YdlEhyphenhyphenVh8KQEckR/s1600/Promo-Lawson-Gajian-GasPol-27-april-3-Mei-2026%20%282%29.jpg",
 ],
