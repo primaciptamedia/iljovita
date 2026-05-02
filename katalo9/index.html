@@ -5,37 +5,60 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Harga Promo Katalog</title>
 
-<link rel="stylesheet" href="style.css">
-
 <style>
 body {
+    margin: 0;
     font-family: Arial, sans-serif;
+    background: #f5f5f5;
 }
 
+/* HEADER */
+.header {
+    background: #1f8e03;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* CONTROL AREA */
+.control {
+    padding: 10px;
+    background: white;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+/* CONTENT FULL WIDTH */
+#content {
+    width: 100%;
+}
+
+/* IMAGE RESPONSIVE */
 img {
     width: 100%;
-    margin-bottom: 10px;
-}
-
-.container {
-    max-width: 600px;
-    margin: auto;
+    height: auto;
+    display: block;
 }
 </style>
 </head>
 
 <body>
 
-<div class="container">
-
-<h3 style="background:#1f8e03;color:#fff;padding:8px;text-align:center;">
+<div class="header">
 Harga Promo Katalog
-</h3>
+</div>
 
-<h4>Pilih Katalog:</h4>
-
+<div class="control">
 <select id="promo">
-    <option value="">-- pilih katalog --</option>
     <option value="midiweek">Alfamidi Hemat Satu Pekan</option>
 <option value="midimom">Alfamidi Weekend</option>
 <option value="midi">Alfamidi</option>
@@ -85,55 +108,41 @@ Harga Promo Katalog
 <option value="yomart">Yomart</option>
 <option value="yomartweek">Yomart Weekend</option>
 </select>
-
-<br><br>
+</div>
 
 <div id="content"></div>
 
-</div>
-
-<!-- ✅ ambil data -->
-<script src="data.js"></script>
+<script src="https://iljovitadev.pages.dev/katalo94/data.js"></script>
 
 <script>
 const select = document.getElementById("promo");
 const container = document.getElementById("content");
 
-// tampilkan gambar
+// fungsi tampilkan gambar
 function tampilkan(promo) {
-    console.log("PROMO:", promo);
-    console.log("DATA:", data);
-
     container.innerHTML = "";
 
-    if (!promo || !data[promo]) {
-        container.innerHTML = "<p style='color:red'>Data tidak ditemukan</p>";
-        return;
-    }
+    const list = data[promo] || data["default"];
 
-    data[promo].forEach(function(url) {
+    list.forEach(function(url) {
         const img = document.createElement("img");
         img.src = url;
         container.appendChild(img);
     });
 }
 
-// event dropdown
+// ✅ load awal → tampilkan default
+tampilkan("default");
+
+// ✅ event dropdown
 select.addEventListener("change", function() {
     tampilkan(this.value);
 });
-
-// auto load dari URL (?promo=...)
-const params = new URLSearchParams(window.location.search);
-const promo = params.get("promo");
-
-if (promo) {
-    select.value = promo;
-    tampilkan(promo);
-}
 </script>
 
 </body>
 </html>
-</body>
-</html>
+
+
+
+
