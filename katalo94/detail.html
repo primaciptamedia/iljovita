@@ -1,93 +1,306 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+<meta name="theme-color" content="#1A202C">
 <title>Harga Promo Katalog 4</title>
-
-<link rel="stylesheet" href="./css/bootstrap.min.css">
-
 <style>
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #f5f5f5;
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--red:#E53E3E;--ink:#1A202C;--gray:#718096;--border:#E2E8F0;--bg:#111827}
+html{scroll-behavior:smooth;-webkit-tap-highlight-color:transparent}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:white;min-height:100vh}
+
+/* ── HEADER ── */
+.hdr{
+  position:sticky;top:0;z-index:200;
+  display:flex;align-items:center;gap:10px;
+  padding:0 14px;height:52px;
+  background:rgba(17,24,39,0.97);
+  backdrop-filter:blur(14px);
+  border-bottom:1px solid rgba(255,255,255,0.08);
+}
+.hdr-back{
+  display:flex;align-items:center;gap:6px;
+  background:rgba(255,255,255,0.1);
+  border:none;border-radius:20px;
+  padding:6px 12px;cursor:pointer;
+  color:white;font-size:0.78rem;font-weight:600;
+  font-family:inherit;transition:background 0.2s;
+  text-decoration:none;white-space:nowrap;
+}
+.hdr-back:hover{background:rgba(229,62,62,0.5)}
+.hdr-back svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2.5}
+.hdr-info{flex:1;min-width:0}
+.hdr-name{font-size:0.88rem;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hdr-sub{font-size:0.62rem;color:rgba(255,255,255,0.45);margin-top:1px}
+.hdr-count{
+  background:rgba(255,255,255,0.1);
+  border:1px solid rgba(255,255,255,0.15);
+  border-radius:100px;padding:3px 10px;
+  font-size:0.65rem;font-weight:700;
+  white-space:nowrap;color:rgba(255,255,255,0.7);
+  flex-shrink:0;
 }
 
-/* 🔥 STICKY BACK BUTTON */
-.back-bar {
-  position: sticky;
-  top: 0;
-  z-index: 999;
-  background: #1f8e03;
-  padding: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+/* ── IMAGES ── */
+.pages{
+  display:flex;flex-direction:column;
+  align-items:center;
+  gap:0;
+  padding:0;
+  max-width:900px;
+  margin:0 auto;
 }
 
-/* BUTTON */
-.back-button {
-  display: block;
-  width: 100%;
-  text-align: center;
-  padding: 12px;
-  background: white;
-  color: #1f8e03;
-  font-weight: bold;
-  text-decoration: none;
-  border-radius: 8px;
-  font-size: 16px;
+.page-wrap{
+  width:100%;
+  position:relative;
+  background:#0D1117;
 }
 
-/* CONTENT */
-#content {
-  width: 100%;
-  padding: 10px;
+/* halaman label */
+.page-num{
+  position:absolute;top:10px;right:10px;
+  background:rgba(0,0,0,0.6);color:white;
+  font-size:0.65rem;font-weight:700;
+  padding:3px 9px;border-radius:100px;
+  backdrop-filter:blur(4px);
+  z-index:5;pointer-events:none;
 }
 
-/* IMAGE FULL RESPONSIVE */
-img {
-  width: 100%;
-  margin-bottom: 10px;
-  border-radius: 6px;
+.page-wrap img{
+  width:100%;height:auto;display:block;
+  /* gambar full resolusi untuk detail view */
+}
+
+/* skeleton per halaman */
+.page-wrap .ph{
+  width:100%;aspect-ratio:3/4;
+  background:linear-gradient(90deg,#1F2937 25%,#374151 50%,#1F2937 75%);
+  background-size:200% 100%;animation:sh 1.4s infinite;
+}
+@keyframes sh{0%{background-position:200% 0}100%{background-position:-200% 0}}
+
+/* divider antar halaman */
+.page-wrap+.page-wrap{border-top:3px solid #1F2937}
+
+/* ── EMPTY / ERROR ── */
+.state-box{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:60vh;gap:12px;text-align:center;padding:24px}
+.state-icon{font-size:3rem}
+.state-box h3{font-size:1.05rem;font-weight:700}
+.state-box p{font-size:0.82rem;color:rgba(255,255,255,0.5)}
+
+/* ── FOOTER AREA ── */
+.footer-gap{height:80px}
+
+/* ── FIXED BOTTOM BAR ── */
+.bot{
+  position:fixed;bottom:0;left:0;right:0;z-index:200;
+  background:rgba(17,24,39,0.97);
+  backdrop-filter:blur(14px);
+  border-top:1px solid rgba(255,255,255,0.08);
+  padding:8px 14px max(10px,env(safe-area-inset-bottom));
+  display:flex;align-items:center;justify-content:space-between;gap:10px;
+}
+.bot-progress{
+  flex:1;display:flex;flex-direction:column;gap:5px;
+}
+.bot-label{font-size:0.65rem;color:rgba(255,255,255,0.4)}
+.progress-bar{height:3px;background:rgba(255,255,255,0.1);border-radius:2px;overflow:hidden}
+.progress-fill{height:100%;background:var(--red);border-radius:2px;transition:width 0.3s;width:0%}
+.bot-page{font-size:0.75rem;font-weight:700;color:rgba(255,255,255,0.7)}
+
+.btn-top{
+  display:flex;align-items:center;gap:5px;
+  background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.15);
+  border-radius:20px;padding:6px 14px;
+  color:white;font-size:0.75rem;font-weight:600;
+  cursor:pointer;border-radius:20px;
+  font-family:inherit;transition:background 0.2s;
+  white-space:nowrap;
+}
+.btn-top:hover{background:rgba(255,255,255,0.18)}
+.btn-top svg{width:13px;height:13px;stroke:currentColor;fill:none;stroke-width:2.5;flex-shrink:0}
+
+/* ── FAB scroll top (muncul saat scroll) ── */
+.fab{
+  position:fixed;bottom:72px;right:14px;z-index:190;
+  width:40px;height:40px;border-radius:50%;
+  background:var(--red);color:white;border:none;
+  box-shadow:0 4px 16px rgba(229,62,62,0.45);
+  display:flex;align-items:center;justify-content:center;
+  cursor:pointer;font-size:1.1rem;
+  opacity:0;transform:translateY(10px);
+  transition:all 0.3s;pointer-events:none;
+}
+.fab.show{opacity:1;transform:translateY(0);pointer-events:auto}
+
+/* desktop: max-width centered */
+@media(min-width:900px){
+  .hdr,.bot{max-width:900px;left:50%;right:auto;transform:translateX(-50%);width:100%}
+  .fab{right:calc(50% - 436px)}
 }
 </style>
-
 </head>
-
 <body>
 
-<!-- 🔥 STICKY BACK BUTTON -->
-<div class="back-bar">
-  <a href="index.html" class="back-button">⬅ Kembali ke Katalog</a>
+<!-- HEADER -->
+<div class="hdr" id="hdr">
+  <a class="hdr-back" href="index.html" title="Kembali ke Katalog">
+    <svg viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+    Katalog
+  </a>
+  <div class="hdr-info">
+    <div class="hdr-name" id="hdrName">Memuat...</div>
+    <div class="hdr-sub" id="hdrSub"></div>
+  </div>
+  <div class="hdr-count" id="hdrCount"></div>
 </div>
 
-<!-- CONTENT -->
-<div id="content"></div>
+<!-- PAGES CONTAINER -->
+<div class="pages" id="pages">
+  <div class="state-box" id="loadBox">
+    <div style="width:36px;height:36px;border:3px solid rgba(255,255,255,0.15);border-top-color:var(--red);border-radius:50%;animation:sh2 0.8s linear infinite"></div>
+    <p>Memuat katalog...</p>
+  </div>
+</div>
+
+<div class="footer-gap"></div>
+
+<!-- FAB -->
+<button class="fab" id="fab" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+
+<!-- BOTTOM BAR -->
+<div class="bot" id="bot" style="display:none">
+  <div class="bot-progress">
+    <div class="bot-label">Progress halaman</div>
+    <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+  </div>
+  <div class="bot-page" id="botPage">1 / 1</div>
+  <button class="btn-top" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+    <svg viewBox="0 0 24 24"><polyline points="18 15 12 9 6 15"/></svg>
+    Ke Atas
+  </button>
+</div>
+
+<style>
+@keyframes sh2{to{transform:rotate(360deg)}}
+</style>
 
 <script src="data.js"></script>
-
 <script>
-console.log(data);
+// ── NAMA KATALOG ──
+const NAMES={
+  alfa:'Alfamart',alfagaji:'Alfamart Spesial',alfaweek:'Alfamart Weekend',alfapromo:'Alfamart Paling Murah',
+  midi:'Alfamidi',midiweek:'Alfamidi Hemat Satu Pekan',midimom:'Alfamidi Weekend',miditebus:'Alfamidi Tebus Murah',
+  indo:'Indomaret',indogaji:'Indomaret Promo Mingguan',indoweek:'Indomaret Weekend',indoheboh:'Indomaret Promo Heboh',
+  family:'FamilyMart',lawson:'Lawson',yomart:'Yomart',yomartweek:'Yomart Weekend',
+  super:'SuperIndo',superweek:'SuperIndo Weekend',yogya:'Toserba Yogya',yogyaweek:'Toserba Yogya Weekend',
+  hari:'Hari Hari Swalayan',hariweek:'Hari Hari Swalayan Weekend',naga:'Naga Swalayan',
+  maxi:'Maximart',ada:'Ada Swalayan',tiptop:'TipTop Swalayan',tiptopweek:'TipTop Weekend',
+  smarco:'SMARCO Superstore',grand:'Grand Lucky',hero:'HERO Supermarket',
+  kasi:'Kasimura',susu:'Suzuya',samu:'Samudra',
+  hyper:'Hypermart',hyperweek:'Hypermart Weekend',careweek:'Transmart Weekend',care:'Transmart Carrefour',
+  lotteweek:'LotteMart Weekend',lottemart:'LotteMart',
+  indogrosir:'Indogrosir',indogrosirweek:'Indogrosir Weekend',
+  aeon:'AEON',lulu:'Lulu Hypermarket',luluweek:'Lulu Weekend',
+  hall:'The FoodHall',farmer:'Farmers Market',farmerweek:'Farmers Market Weekend',
+  guar:'Guardian Lebih Hemat',guard:'Guardian',guardianweek:'Guardian Weekend',
+  brastagi:'Brastagi',oriflame:'Oriflame',tupper:'Tupperware',aneka:'Aneka',
+};
 
-const params = new URLSearchParams(window.location.search);
-const promo = params.get("promo");
+const promo = new URLSearchParams(location.search).get('promo') || '';
+const imgs  = (data[promo] || data.default || []).filter(u => u && u.trim());
+const name  = NAMES[promo] || promo || 'Katalog';
 
-const container = document.getElementById("content");
+document.getElementById('hdrName').textContent = name;
+document.title = name + ' — Katalog Promo';
 
-// fallback aman
-const list = data[promo] || data["default"];
+const pages    = document.getElementById('pages');
+const loadBox  = document.getElementById('loadBox');
+const bot      = document.getElementById('bot');
+const fab      = document.getElementById('fab');
+const fill     = document.getElementById('progressFill');
+const botPage  = document.getElementById('botPage');
+const hdrCount = document.getElementById('hdrCount');
+const hdrSub   = document.getElementById('hdrSub');
 
-// kalau kosong
-if (!list) {
-  container.innerHTML = "<p style='color:red;text-align:center'>Data tidak ditemukan</p>";
+if (!imgs.length) {
+  loadBox.innerHTML = `
+    <div class="state-icon">📭</div>
+    <h3>Katalog belum tersedia</h3>
+    <p>Coba buka katalog lain</p>
+    <a href="index.html" style="margin-top:8px;display:inline-flex;align-items:center;gap:6px;background:var(--red);color:white;padding:9px 20px;border-radius:8px;text-decoration:none;font-size:0.82rem;font-weight:600">← Kembali ke Katalog</a>`;
 } else {
-  list.forEach(url => {
-    const img = document.createElement("img");
-    img.src = url;
-    container.appendChild(img);
-  });
+  build();
 }
-</script>
 
+function build() {
+  loadBox.style.display = 'none';
+  bot.style.display = 'flex';
+
+  hdrCount.textContent = imgs.length + ' halaman';
+  hdrSub.textContent   = 'Scroll ke bawah untuk melihat semua halaman';
+
+  // Buat elemen gambar satu per satu dengan lazy loading
+  imgs.forEach((url, i) => {
+    const wrap = document.createElement('div');
+    wrap.className = 'page-wrap';
+    wrap.id = 'page-' + i;
+
+    // placeholder dulu
+    const ph = document.createElement('div');
+    ph.className = 'ph';
+    wrap.appendChild(ph);
+
+    const num = document.createElement('div');
+    num.className = 'page-num';
+    num.textContent = (i+1) + ' / ' + imgs.length;
+    wrap.appendChild(num);
+
+    const img = document.createElement('img');
+    img.alt   = name + ' halaman ' + (i+1);
+    img.loading = i < 2 ? 'eager' : 'lazy'; // 2 pertama langsung load
+    img.decoding = 'async';
+    img.onload  = () => ph.remove();
+    img.onerror = () => { ph.style.opacity='0.3'; };
+    img.src     = url; // full resolution untuk detail
+    wrap.appendChild(img);
+
+    pages.appendChild(wrap);
+  });
+
+  updateProgress();
+}
+
+// ── SCROLL TRACKING ──
+let ticking = false;
+function updateProgress() {
+  const scrollY = window.scrollY;
+  const docH    = document.documentElement.scrollHeight - window.innerHeight;
+  const pct     = docH > 0 ? scrollY / docH : 0;
+
+  fill.style.width = Math.round(pct * 100) + '%';
+  fab.classList.toggle('show', scrollY > 300);
+
+  // cari halaman yang sedang terlihat
+  const hdrH = 52;
+  let current = 0;
+  for (let i = 0; i < imgs.length; i++) {
+    const el = document.getElementById('page-' + i);
+    if (!el) continue;
+    if (el.getBoundingClientRect().top <= hdrH + 20) current = i;
+  }
+  botPage.textContent = (current+1) + ' / ' + imgs.length;
+}
+
+window.addEventListener('scroll', () => {
+  if (!ticking) {
+    requestAnimationFrame(() => { updateProgress(); ticking = false; });
+    ticking = true;
+  }
+}, {passive: true});
+</script>
 </body>
 </html>
