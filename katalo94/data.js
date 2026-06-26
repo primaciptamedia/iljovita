@@ -319,8 +319,8 @@ family: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMdxjsXEoaqdMg5lXEplkrtaYiKZxXx393y1h2tqi83e88kh7DPtfSBe05tqXh9K9jjCakbRS4eeMGy6DI80FOZkP7FCe7_LQjttiX-er-oYQ-fpIImz9P5BFXs02J0pMEvEAHMU_SQz341S4uYrjbSAQp_smYiU2eQoy4prABxTgiX046EP9PnGgqUa62/s16000/Promo-JSM-FamilyMart-Weekend-22-28-Juni-2026.jpg",
 ], 
 farmerweek: [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaQcnMC_D_Conb3dBFBugu53Z3LFYerkjcrLrHsF9NjOHG_j7vxvQW9udVgp6IS07Wig03FqvgmcsXn6py2IEL27wSYiqWnlNP29UJnqM6FCil9BuoDII68GFdhXQKGqGxyHg8Hgzgo9sMQUARaktLE-NaUlsjNL2Zo-PknHBjNWNUBkeJteRwa-jOBBn8/s16000/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-19-21-Juni-2026-1.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Ih6Wpcw3o4Iw8uK0Yr2iMZjnL1G4BhBlh7_OTFBSAVzsyhKifRW6Kw25lOj2JLdCtg90coPuVv6zhPothub5nF9TK1AT0znBqNBY11ZuCNA0uyQZz2KAm_BAlt1v8bj_1phUs0XezROlN36hAoFGyVY3_lrz10OKq4omHmhSKPf5vNSmOnOtHt7VvG5V/s16000/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-19-21-Juni-2026-2.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTY7RPzLkg-PE5FnkuR0UnmJMZNEo0Kzk3AIV9wTR2Hhq4zleNGyo70u1eeXSu637pjKxb_HogLAOY2HeMe97fSr2jDLPFPUKju0S6K-pbhzt8mlMFcLz6jKZiEAlXaOo7YEKPLjN88QqHyY5lj0w15W5aYX2eU2lyMUw4cO0_bRX5v6FKx73IsHN7-Dr/s16000/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-26-30-Juni-2026-1.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUBLKGux1UNcnMZTeEKhM2d4vxesfJOhsivFyvCboDaWm1pKoasO2xhd3PIyOq8ApWU1ZACn01FMDKDbWj1sMKGamVQUnFjERrXoNNPlmzD_DaSn58HUB7mfiZgmgiQYVnU-eRL-D18gMnWgPYEMyk6eDs7_xw03R1FjPDV5vlR5RnaruAIlIvlioLrK5b/s16000/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-26-30-Juni-2026-2.jpg",
 ], 
 farmer: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuxbbdrXRRm9YkUgCXszFrR8FO6Na7Y4RMPwrv20T5BTOfSWJPVug6rNp0ep8rwa-aAfCuuLRdKB-MceXpNqNjDkdzpdunPGynvMyze_qct2UpRNiW0MGQpR2QZ1N4JU25E33OywHWG6Ew-U_Di1LTXTggNvHULlPuFmFFls9Yit7qkBCLoTEboo_0thv/s16000/Promo-Katalog-Farmers-Market-Terbaru-5-18-Juni-2026%20(1).jpg",
