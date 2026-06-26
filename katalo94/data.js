@@ -27,7 +27,7 @@ super: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJQNGYQqrE6Zz20WTALpMAnAb6FHM07J0dnhkOoPIbWIwcH0g9gXu-iLX0tPagm-Rkg1d80nweVMo0iQkXQQTsdFdEAqIiuF4CqV1YWI1ItUhgpQ208ivISCkJwLUw3u7lGmeT2nRMSX-j2PI9Fh6ZE9KstTWUnqXM0Sf8ngUXEik0JYFXP0mt14kC0YI/s16000/katalog_superindo_250601072026%20(13).jpg",
 ], 
 superweek: [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8eXkqb9TqQLly87-KKmbV7ljiMbe8V_0t6tGGW38MjiPZAev8SluU5Yc-Miqc9x0JJ6By_hSqTbvqFefsLxOFEnEi-KblwZDVO3vNzF5L4akamJCR1j7rpexOhDe85rnupMimKwyiURVzohBOPcecZvnTDav26KTY12eJ1A9wyAUtIB53mQWrUHVjjVFG/s16000/Katalog-Promo-Superindo-Weekday-Terbaru-22-25-Juni-2026.jpg"
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM0yHhiYS9qGe32-feYSgX12mlBgFx81Cp6Jr6Ll9LGpRBPO0alRE5R_TMIYoc8FKMvt0hjTBCNcAqiFyNQqwHyktZXhcDzR7cauMy8oeju5wNDhQzdT-z2IXufbI_o7PDRvHGhuqvVXa_iZdIpQ72d7JZas5YKcoFQ3s5xrG2CRVZJMkV_Bc6PZ6VJH55/s16000/Katalog-Promo-JSM-Superindo-Weekend-Terbaru-26-28-Juni-2026.jpg"
 ], 
 alfapromo: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVJNRbs3imXZqBJpdmaTNf_ei3a3JSfUR32GMIG44tr8NPegEfhgkI_1L2fVmWTsNe91wtslbMVYei8fsctnQoO6i338-34neKJzq8cDdpqYdqBLkrE5FGM0t8SzKBSJu8GsD3i7W9IWCzBwAkTUhN1JyKQ0zHRfn5a666FEHn2h0jy9YuOse43uegZ_FJ/s16000/Katalog-Promo-PSM-Alfamart-16-23-Juni-2026.jpg",
