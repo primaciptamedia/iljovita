@@ -27,15 +27,13 @@ super: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtJQNGYQqrE6Zz20WTALpMAnAb6FHM07J0dnhkOoPIbWIwcH0g9gXu-iLX0tPagm-Rkg1d80nweVMo0iQkXQQTsdFdEAqIiuF4CqV1YWI1ItUhgpQ208ivISCkJwLUw3u7lGmeT2nRMSX-j2PI9Fh6ZE9KstTWUnqXM0Sf8ngUXEik0JYFXP0mt14kC0YI/s16000/katalog_superindo_250601072026%20(13).jpg",
 ], 
 superweek: [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM0yHhiYS9qGe32-feYSgX12mlBgFx81Cp6Jr6Ll9LGpRBPO0alRE5R_TMIYoc8FKMvt0hjTBCNcAqiFyNQqwHyktZXhcDzR7cauMy8oeju5wNDhQzdT-z2IXufbI_o7PDRvHGhuqvVXa_iZdIpQ72d7JZas5YKcoFQ3s5xrG2CRVZJMkV_Bc6PZ6VJH55/s16000/Katalog-Promo-JSM-Superindo-Weekend-Terbaru-26-28-Juni-2026.jpg"
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-4RdNgxsoW0yuW9rvQhjJGB9PHdPZIXydt8EqX2SFtJYXp1XpQEvgIqyVjZkjNn-bxVZaF4gNgzynpVcjDRKfFbLzkoy4c5Juw-5Y0aqEZRlMZOGvKPeu-6a13MTKSe01Yo9Y4C2GzgR-I-HyINtKbmwyPg3cZ3L58qW9y79zDxcORUfGFjICbyHl4sys/s16000/Katalog-Promo-Superindo-Weekday-Terbaru-26-Juni-2-Juli-2026.jpg"
 ], 
 alfapromo: [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVJNRbs3imXZqBJpdmaTNf_ei3a3JSfUR32GMIG44tr8NPegEfhgkI_1L2fVmWTsNe91wtslbMVYei8fsctnQoO6i338-34neKJzq8cDdpqYdqBLkrE5FGM0t8SzKBSJu8GsD3i7W9IWCzBwAkTUhN1JyKQ0zHRfn5a666FEHn2h0jy9YuOse43uegZ_FJ/s16000/Katalog-Promo-PSM-Alfamart-16-23-Juni-2026.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipN8K2cQkMMo87b511p_rgvFYB8zKmI5F5dSVddN1r7wKAvzpLpEpEzLaHyIlZCBkEtPQKDsLyEysjiCX0gd2WqwSwjtQnQdzqx-UK4Lrd2GZuNIWSiFpfy9sKEJvN_HAA-uO4yakXQkEzEIU9vmMwqHjAU835uoJSaBWLwa8vIu_aCdpiN88uPMu8ypvJ/s16000/Promo-Alfamart-Paling-Murah-Sejagat-Terbaru-16-23-Juni-2026-1.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghOCb_0f8KYKym-yKH6B0rehyphenhyphenoA6w7NUezevqwDqVo-bK8HDltP-_87gCuoH6XUjRIZKr1M5CoNNUrtocI-RqGD-J2kBN4DWiKQKQhYPLngH7Mk4gQWBZ2u-UIQKwyOWaQYi3DLXBNj8mKWI1NBaPok_BSOqkG6mceW_x24SO-XQ510gYYH_efBUew42JD/s16000/Promo-Alfamart-Paling-Murah-Sejagat-Terbaru-16-23-Juni-2026-2.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8b7DFqwIaUNN0WXZLaT160kS8lfQx3ir7w02pEpZ9cgpvfO6UCKIY130yDZsLgcpB1rUeq9H0x2r21jR1uEjs00IJ5P14HrPPBJWpmJPNK8lXJfdzoaVxfMKjoJJ0d3x7wvO800ZqFeK66FnPMfDCk3HD5mo_p1koF2kbqALYOtGOf3CvkgghyCnXxhVY/s16000/Promo-Alfamart-Paling-Murah-Sejagat-Terbaru-16-23-Juni-2026-3.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIjjsEjl_t-H1CJD4VzezWfY9amfn-_zmMj7gPj2Y0qnnMv2pgZQ2_J0zrCiqgT8Qv0DlotPISLBuASjg_c-4-QvEQmO2zMr7e_j3sYnC05fS7nJGMrUFSHK4QODQa_p1nrC0IMYXjADxHGE0VAgWG3L0kUwmdq_2H-cXVSyqyWFcnxVvcF8gmIJn2ok21/s16000/Promo-Alfamart-Paling-Murah-Sejagat-Terbaru-16-23-Juni-2026-4.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh97VbOLPlpdpRmc9mrEBwo9nnZQh49FOkz6_CbyCjQ8zI7u1NS4Z-SeIpdAyWz7-oe_GPKpIMXeEKVZOXLtWWWT0yKJ4naQMxVc-uIa776qGgL9oeLrOBiNDKKEdiiGyGRb3M5gQTyKHBHdAWPvW7tbBS8n8coIkyE_wII7WnwQ0mHT78UImCWmm-NfB_r/s16000/Promo-Alfamart-Paling-Murah-Sejagat-Terbaru-16-23-Juni-2026-5.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-CPAMiSBZJi30t9Q3HnknW3AQWaqrn35TkY5IYzGAQG6dQlGsmJt5unr5HGqsILye_ogU3eOX0voXnea-hQhHSw04Bbel_fR6ijsboYnzHeIIDmy6IPy3f_6EVA33Z5lcG0MS5UyPUrn-KxsBr8lATz2qvjquotKliYaC0rXURchPR_qG8q0HZr7O75cM/s16000/Katalog-Promo-PSM-Alfamart-Terbaru-24-30-Juni-2026.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP6LW-4S4BqkTBgqP6FyP-_c9GuJzP_-IWvhctVQe03LY62_biemTaRlBOkejLHarFzrf5zolJGNhD1QMI2wDVmdLiakLx9E_W8Z-x7viW7R8oiN2n7Ze9qU5iOLlpRDBTDBVru876QHSRAEHCCSHx-_QQ5czyBTLVU0NoEQwqy5o01whWriZCTzeeMULn/s16000/Promo-Alfamart-Paling-Murah-Sejagat-24-30-Juni-2026-1.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUD4eJfo1N2lPNoNHVUIgblzBvC8npgAqqHWhLrRjBJ5z0IKEdCy4xLjKpxM1QhH4HOIk1oJfmHeEyWWfe-2BO6FxkwUyx2zWzkunaCskVM4hNOdw_44JWDdS3CCFyp2YGF45USEzsEsNSA7mCrRiCCDndXd2br72w6pkXiQfVKHrigwqe1LXM9xJE3dwu/s16000/Promo-Alfamart-Paling-Murah-Sejagat-24-30-Juni-2026-2.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7PxI2iEmW1F27d19bKR25BLaE8UzvUoJ6opjG1PQC9urWu_NJsXPrQCkQ32Se1U3Rx4MaOb848RHIRCEbN1p-ra5ur8L-OQT-CyKiNHbXPlKY1yRm7Iaax132z-chY2PZle3TQj6zowSAtlxJX5IvYh5xsztOCllXym4zso9rpQPLT-J9ScUJeG-dVh8U/s16000/Promo-Alfamart-Paling-Murah-Sejagat-24-30-Juni-2026-3.jpg",
 ],
 alfagaji: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-CPAMiSBZJi30t9Q3HnknW3AQWaqrn35TkY5IYzGAQG6dQlGsmJt5unr5HGqsILye_ogU3eOX0voXnea-hQhHSw04Bbel_fR6ijsboYnzHeIIDmy6IPy3f_6EVA33Z5lcG0MS5UyPUrn-KxsBr8lATz2qvjquotKliYaC0rXURchPR_qG8q0HZr7O75cM/s16000/Katalog-Promo-PSM-Alfamart-Terbaru-24-30-Juni-2026.jpg",
@@ -89,10 +87,10 @@ alfa: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8iJgpvWCt18UBfbqgmVBcfzi-duoKlkESbgRC1ZGxf-L4P1bra1mgzPzKhUP9_cTHgdXt-PTXoSZ-sUz7wkJXTMINhooXVircWYF2k5oZQ4pn5ToGRpJrE_LtV34EqhzsPgVom8A-s65eLb1WxBngs9yiuStkunrdFRkiyxdIPQ1ePldYvZmsRxnqD8C/s16000/Katalog-Alfamart-Promo-Terbaru-16-30-Juni-2026-26.jpg",
 ], 
 midiweek: [ 
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedxW-2TmxkF4Z5z0YzO0FmUjtITsBh86x7cOk7v2V8ExU6xJl_hwOft_n7XVBngSrXmHjXyEdYKjl4tyWMgtuocDIKaLqb76XAzN45toqTtWs_m_YCfOvNHy64vcm_yUxQrBTc98AZdzFY-w6L2v5GylVmpfLH_QyWniDx8JYHLB72_wo3wktvqeVbnI2/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-22-28-Juni-2026-1.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_968NTpcovyKCYWAqdIxyL7D1SySOTra15Oc4TzGyvufBeM2kWFRrL6YG7gZzczW4BVX11YvI6iZJ2Cuo_HVC5I8vBreo3FO5MEoPLZFI2Z5MQ2aeYGFaePrLA9dAm9KyCxJahoI_MvxjSObFeAt8SK1AGMefG8yzsnIqPHDr7HqdTbfucH6y6x-k8BTC/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-22-28-Juni-2026-2.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLwln0mhApQ1TxHZmK4JH1NwcOQrD2Z4dbUJbahdscZbfNMLNVUZyyUXc8-RygHo-WGx5_tU6-EPHdar3qKaQzCfKqRYIzewueToTq8IwcftIy7INsdY1PTCe9JP8Ijs8-0gf2vwg2Q3YGOnu3xkvGua53Wk1c8ZQ3fu7y2HftN28lbY2dc7dwSc98DCbv/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-22-28-Juni-2026-3.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTgdJUzhODT-GyNbMcxLMXaoJGF6QWqfY-KKCg7mr7I2LNAiQKaUWBtTfINBbgX5ifExv7KjxMXAgbmqIv93Y1EP-LdDIKkpcp9FsQ4R-gAq9RBS3sDHcH-A0U8dN9vUI65WDqIqxux5aK-7gcMZxgH6nlBBbIxzCJTSMBLRhlMIOtQGVxB1yyKRMjVIm5/s16000/Promo-Alfamidi-RPM-Periode-22-28-Juni-2026.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv6waO7_8D5Ny60yjme82wbqIg0nq8JUIq0-cVMb3y7a_pN80VgeUVv2d2KoBMfokKKkM8SFdpbiGUfTfuLop8JnNGXH4HoVlMB_-IfROpuNi6TlZ6DgFPblhrHzmC9NyV4TYhHqv3ep3yitDZs5BnZTCeZRKohnPiU_c-XWKrCLgmqTgdnmLXmozWmuBa/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-29-Juni-5-Juli-2026-1.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-4Tto3e3RsUnFvNrB0Vck0L7t4gMLsgb3xBjS0dRxJJ_iw3e81rKsAuAdNpkttIcDExD-hD4YRUKFbutLOUI-9fr1Oowd_VFP8CpCGCLqiXdwC8a3_AInemyfv-YzgtpDo2BMn0HZfPkvQaPY1rRmgK5WWtosCoM4gtuu-X4WLvYc_kldJt3Q3Qd2Mk9/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-29-Juni-5-Juli-2026-2.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5uxB-W5jEKuU9VnXMcZdn7IHfIjO9W_iN9TJZgkwlvMWsCoDoDR6Z3RqEdPWvBE_es46D0yRp8cx6PSSuNZL9FJoo1lkeqiRxlg8XgdCe7SvmhDWqh7Eb0gjfRzxLdsXj_E9RK_PHMdl2nGomSdss56Y_IlnjIdvjqrlMsW96Y8TDDn4dQS8MzMmjirG/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-29-Juni-5-Juli-2026-3.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxpxxxZ8rtpCXKD4GUqdmFUAy7ri8gLuA_fEpcxq1zMels1CQU6qXmq0uiOKr1n6_h408seVLzQl3EXxtnzmHhFyMq29sgk1zVX9THrgz3UnRDRefIVmOFdmzA7I3BdSY3Qg_JrDSv4yJMgi0TBppq46mBHF0MJg4iy2dE-Uwf5G1UEg_CevA6v2hxpBVk/s16000/Promo-Alfamidi-RPM-Periode-29-Juni-5-Juli-2026.jpg",
 ], 
 miditebus: [ 
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSrt47jEcgwzl-W-6vGUK0C7BSCjMALOf72JSLYWxVwX8tHhahf3oeH8p9YEUix0eKhdl7Phlih81YJu2eX8f1nA87nM9_ztNNTYGqovTnMalSF7mLE-EG-BlZE9rBndjs-DTv0g1Qq18NxFeMPD8P22SU4CompEOorlxrMHesYiaJh7IJcEoyJKEUtG1H/s16000/Promo-Alfamart-Minyak-Goreng-Hemat-Terbaru-4-11-September-2025.jpg"], 
@@ -316,7 +314,7 @@ guar: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhocyue_FOQ9JQ1ptMdQWOJrbAmxq14vEtGLm-V1EUgQ4E8wrQKD3YI-wmf05CvNi99HydXvh95x5jzaBvhrPUMFNjqiVIeuCr6Oer9FIbzP8v9cSaE05vPeEiaip2mXorueRUrvhY5bbkWqdr4LJBUG0mfgd9p3EX1cP3RW0Bg2xeBIxsGfhpzDi3F8K1V/s1600/Katalog-Promo-JSM-Guardian-Super-Weekend-Deals-Terbaru-11-14-Juni-2026%20%288%29.jpg",
 ], 
 family: [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMdxjsXEoaqdMg5lXEplkrtaYiKZxXx393y1h2tqi83e88kh7DPtfSBe05tqXh9K9jjCakbRS4eeMGy6DI80FOZkP7FCe7_LQjttiX-er-oYQ-fpIImz9P5BFXs02J0pMEvEAHMU_SQz341S4uYrjbSAQp_smYiU2eQoy4prABxTgiX046EP9PnGgqUa62/s16000/Promo-JSM-FamilyMart-Weekend-22-28-Juni-2026.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPQkNozA9udHiLLOsP_HSH9bAVSiUypoVsgCzfKCMWHVdJQMLrbo1Bpd9qMD1hIDNiQnrdynyjjjeB0Ea27QcEpSXsLeJZFqCgyD_3J6Xs-LgEKIkdNoGQKBkkkzbntOCqx-QSjWWavW-fJfnZ9GI5sTMfnK-QqmzgvdD9fvI3StJFv1SmDc_RHFQIA5Sa/s16000/Promo-FamilyMart-Hemat-Banget-29-Juni-5-Juli-2026.jpg",
 ], 
 farmerweek: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTY7RPzLkg-PE5FnkuR0UnmJMZNEo0Kzk3AIV9wTR2Hhq4zleNGyo70u1eeXSu637pjKxb_HogLAOY2HeMe97fSr2jDLPFPUKju0S6K-pbhzt8mlMFcLz6jKZiEAlXaOo7YEKPLjN88QqHyY5lj0w15W5aYX2eU2lyMUw4cO0_bRX5v6FKx73IsHN7-Dr/s16000/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-26-30-Juni-2026-1.jpg",
@@ -620,10 +618,10 @@ lawson: [
 ],
 
 default: [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjedxW-2TmxkF4Z5z0YzO0FmUjtITsBh86x7cOk7v2V8ExU6xJl_hwOft_n7XVBngSrXmHjXyEdYKjl4tyWMgtuocDIKaLqb76XAzN45toqTtWs_m_YCfOvNHy64vcm_yUxQrBTc98AZdzFY-w6L2v5GylVmpfLH_QyWniDx8JYHLB72_wo3wktvqeVbnI2/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-22-28-Juni-2026-1.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_968NTpcovyKCYWAqdIxyL7D1SySOTra15Oc4TzGyvufBeM2kWFRrL6YG7gZzczW4BVX11YvI6iZJ2Cuo_HVC5I8vBreo3FO5MEoPLZFI2Z5MQ2aeYGFaePrLA9dAm9KyCxJahoI_MvxjSObFeAt8SK1AGMefG8yzsnIqPHDr7HqdTbfucH6y6x-k8BTC/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-22-28-Juni-2026-2.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLwln0mhApQ1TxHZmK4JH1NwcOQrD2Z4dbUJbahdscZbfNMLNVUZyyUXc8-RygHo-WGx5_tU6-EPHdar3qKaQzCfKqRYIzewueToTq8IwcftIy7INsdY1PTCe9JP8Ijs8-0gf2vwg2Q3YGOnu3xkvGua53Wk1c8ZQ3fu7y2HftN28lbY2dc7dwSc98DCbv/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-22-28-Juni-2026-3.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTgdJUzhODT-GyNbMcxLMXaoJGF6QWqfY-KKCg7mr7I2LNAiQKaUWBtTfINBbgX5ifExv7KjxMXAgbmqIv93Y1EP-LdDIKkpcp9FsQ4R-gAq9RBS3sDHcH-A0U8dN9vUI65WDqIqxux5aK-7gcMZxgH6nlBBbIxzCJTSMBLRhlMIOtQGVxB1yyKRMjVIm5/s16000/Promo-Alfamidi-RPM-Periode-22-28-Juni-2026.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv6waO7_8D5Ny60yjme82wbqIg0nq8JUIq0-cVMb3y7a_pN80VgeUVv2d2KoBMfokKKkM8SFdpbiGUfTfuLop8JnNGXH4HoVlMB_-IfROpuNi6TlZ6DgFPblhrHzmC9NyV4TYhHqv3ep3yitDZs5BnZTCeZRKohnPiU_c-XWKrCLgmqTgdnmLXmozWmuBa/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-29-Juni-5-Juli-2026-1.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-4Tto3e3RsUnFvNrB0Vck0L7t4gMLsgb3xBjS0dRxJJ_iw3e81rKsAuAdNpkttIcDExD-hD4YRUKFbutLOUI-9fr1Oowd_VFP8CpCGCLqiXdwC8a3_AInemyfv-YzgtpDo2BMn0HZfPkvQaPY1rRmgK5WWtosCoM4gtuu-X4WLvYc_kldJt3Q3Qd2Mk9/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-29-Juni-5-Juli-2026-2.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5uxB-W5jEKuU9VnXMcZdn7IHfIjO9W_iN9TJZgkwlvMWsCoDoDR6Z3RqEdPWvBE_es46D0yRp8cx6PSSuNZL9FJoo1lkeqiRxlg8XgdCe7SvmhDWqh7Eb0gjfRzxLdsXj_E9RK_PHMdl2nGomSdss56Y_IlnjIdvjqrlMsW96Y8TDDn4dQS8MzMmjirG/s16000/Katalog-Promo-HAP-Alfamidi-Weekday-29-Juni-5-Juli-2026-3.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxpxxxZ8rtpCXKD4GUqdmFUAy7ri8gLuA_fEpcxq1zMels1CQU6qXmq0uiOKr1n6_h408seVLzQl3EXxtnzmHhFyMq29sgk1zVX9THrgz3UnRDRefIVmOFdmzA7I3BdSY3Qg_JrDSv4yJMgi0TBppq46mBHF0MJg4iy2dE-Uwf5G1UEg_CevA6v2hxpBVk/s16000/Promo-Alfamidi-RPM-Periode-29-Juni-5-Juli-2026.jpg",
 ]
 
 };
