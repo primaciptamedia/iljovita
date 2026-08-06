@@ -153,7 +153,7 @@ indoweek: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg27ECXM7qwouEaTMdDcMleoSHoarvHH-cwKfEOXxSxzzoj_TAF8ZuyddvNltG2jIdhox6xLgTM6iO7CNXdYcTh2Z1qYKR4VfqtYyKEGrN9J7OgoEjS6zJuKl2pE2c58Z_URoH07n5woQg3YmFk8yKpsA3ii_F04ya4JeVAkRPMqSzoqElRWAtqHsKZFW6_/s1600/Katalog-Promo-JSM-Indomaret-Terbaru-30-Juli-5-Agustus-2026-14.jpg",
 ], 
 indo: [
-"https://hargacampur.com/wp-content/uploads/2026/07/Katalog-Indomaret-Promo-Terbaru-6-19-Agustus-2026-3.webp",
+"https://hargacampur.com/wp-content/uploads/2026/07/Katalog-Indomaret-Promo-Terbaru-6-19-Agustus-2026-1.webp",
 "https://hargacampur.com/wp-content/uploads/2026/07/Katalog-Indomaret-Promo-Terbaru-6-19-Agustus-2026-4.webp",
 "https://hargacampur.com/wp-content/uploads/2026/07/Katalog-Indomaret-Promo-Terbaru-6-19-Agustus-2026-5.webp",
 "https://hargacampur.com/wp-content/uploads/2026/07/Katalog-Indomaret-Promo-Terbaru-6-19-Agustus-2026-6.webp",
