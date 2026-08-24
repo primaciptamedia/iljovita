@@ -626,10 +626,11 @@ lawson: [
 ],
 
 default: [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpvTFE_loSYOQw3g0Blb0nmP81cmpyVCpTD6Od-XBGlZwQxiV3jCEX4wqGI9OUsPrVIEPf-7_7bKpyHTdsW7OQ1EwxdxFbiTwXxNEb1QweY4vaKtvE_rHF_lLluSnC0G8Y0Mr-zOE7KXBe_0onVhU_klB7IGyc_euSSgKyjcqKHV71-RTwp8a1xS0LFwN/s1600/Katalog-Promo-HAP-Alfamidi-Weekday-17-23-Agustus-2026-1.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVysLigHVoh0pU-i9E03aau25E-SH7vsrul-VBW-_ZWiqsAOAX-AxcZVouAvxlVf9FPQ6sp5XbcGLd_iqLm08rrN7gDFOXjSZxYTnoCh150oIHPO_YED8k722XU2O87XHaDqmhR5G9a4RdH16E6WIIU8jN0r4iTVgbYNBQyRsdCwKXjHHFsiSHSj8bsRs/s1600/Katalog-Promo-HAP-Alfamidi-Weekday-17-23-Agustus-2026-2.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSexmtD_Y_AdoMEMwV-wsy-CLwguqXtgcY3WqxBGaOURo2dxokCFPXcDJ-fzl6MV18g26R2rF1RWvvSDiiidKoq7X_bB_I39eNli4VIsfPSTCQvHMFDiKousia_vcI-p5uut8dbk06zQ5ZohwU9rlVEALw9hsW3kmvPO8-zBtPIwadXmHVFL6QJQP_0IP4/s1600/Katalog-Promo-HAP-Alfamidi-Weekday-17-23-Agustus-2026-3.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL3PqVkDKZK85vHJODhnKOIeDyCJK1gtzlZM_JdamAo7ctsUo9_1GQLVw7oGIKslm6bvd33OuPqPLJ0H4lj-jUWnrTGMVx768ePn0C74EkFhP9oE7z_841qL5hjHMJXdGFeQwR2Zw4_Y-c-DgRNj9Mlllr8zn0DxqxgfsElemeC2PDFEAWdwjJOV9pdr0O/s1600/Promo-Alfamidi-RPM-Periode-17-23-Agustus-2026.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuh-9NdIKEYJyiE1NYv6oByFqsKSj9qVE3WREcehRnokXoxHfbofiEFzatWEH_h2OsvrB9qveYLWQtqI_4M-7DF4EwprwQNPmI_x4-Tk0mZjEu5zvSB2y7BjAPzj_RseNOeLKcwqukYUShIco3Smi75mj0d5zs5xZWE14TajLYJdRf8BpmFfgFStF5dSGz/s1600/Katalog-Promo-HAP-Alfamidi-Weekday-24-30-Agustus-2026-1.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyC8yi1Z1rWLI3_-3OZQ11OK4Y79dkrqzzCtA8r4R0ZbJmGOQ5sCINF9dUpk9SBxgGSslT-rv_sjpJzTlR2yUSWhqBP69chOezbpE14MhnN3tI7BE36soeHc2mmiLwOXL-ixA0KShHi9xKUzEq9t1REcGkyb7xbzjS48-8PmGxiN-P19Ld-ix79ZTU-UK_/s1600/Katalog-Promo-HAP-Alfamidi-Weekday-24-30-Agustus-2026-2.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXYfWHDNXl2h652vukEAgeDAHl4jBhB0A9l1PCkgMCVXQrXCsRu5HDhDFArQXOOOnfV1YESEWpedM1pANhOsg4fz51e8XzWiH9Xr4_pxSkkKcW-ZbnXxVPmetwySaZPXEeDC8vyGe1WcfBME5X8Nf4SB8QXj4MQXzuUZQjHkCKum40_WYzYeKWzWHuMEkt/s1600/Katalog-Promo-HAP-Alfamidi-Weekday-24-30-Agustus-2026-3.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Q2YUIDGgzVaAOH09QGXGIqyUX2bHoaOfLcNeBUhJ-ohNVtQ8ttfa_Jkynm0KjKFxqdT1J899fa3GclWaThnaOHMte05gfMUxlPkKfXUcKQCH1c2MYSWqL0QgRxfpqD65NydVPLkuyLBr4ZkPnYIlr2_8Ezg87A14lP8b3e5Owd9eo39Nb_f3ss18N04S/s1600/Promo-Alfamidi-RPM-Periode-24-30-Agustus-2026-1.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20qdfcV8iLjTUyqNvvGx-VMJQSWGCPOMrVV4LslTScIwcB1i-KSXMWhVM8OJEKvJq99MFfG4yKnJkfZkX-2Jk_0GmlT-8qGjOVQ7zGlcBAn7dsO920OJROHtnLP_6v_kVegCgG-843QuTREiGiH4JHFD7juWSDawj-_j3E3xBjCVY2mZ6u7gjjgN3aZwe/s1600/Promo-Alfamidi-RPM-Periode-24-30-Agustus-2026-2.jpg",
 ]
 
 };
