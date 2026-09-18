@@ -24,7 +24,7 @@ super: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB7J1teapzKixyaNySEic1jj6-EMKblwad26pcjOnSDnb5cNdTUvi9PlixAt8AuPXZDZpEy_HHbEyXJpnllgtLoEgExKd2kGjDpkDv-MuDr9xRbWfmIa9riVoOUi8dhxX-R8FSBliza0GeQbfY_n487Ve7z_5g8INWCTVEmsAtGQMpSuQk8KXspOmq2Rhl/s1600/katalog_superindo_1723092026%20(11).jpg",
 ], 
 superweek: [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG_GJ9IrFTuYpx6mN4yHj8DW-ZNKkTGJD_RlXvPboiZ7B4cOtHJkLr2HM_oSnzInm8Dcq-yvLo-PKYaCPdU4cenybkJLyjJeFH8Yy8G3kjWK25psdVUu4MSSLk6uqUkpOJO57er2hy0_rHYMRk96cqIHxcfmz06tufcXkTLdgPfBXgxM9exUN9tDNHI4Qt/s1600/Katalog-Promo-Superindo-Weekday-Terbaru-14-17-September-2026.jpg"
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZixu5N7DmIh3oF0xH629zzM2THK5LvD0o8cNZ8nyYELdUtxqaLPZWEZ1Bm6qvpwhg7k-N7aN4_QdGpfZycTcYELbDwRBgUCBpWEFxCaU2xc8mmNYPs07H3Sb6uahSHabb9_mzSqhYxpzASVZe1-T2tpb0iW2IhuQejlnMNWMQUf-hjJ5oHztOZKmH-AOK/s1600/Katalog-Promo-JSM-Superindo-Weekend-Terbaru-18-20-September-2026.jpg"
 ], 
 alfapromo: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5KVYPS7Jz6YI0z5J0KPNSXNO7Yr24_GaajMgL4m7GGSt-QSTUwQzzq5GpT-lMlc4Ek1uQZWCXo7kNf2Q9MAkvwI7pqDKPwHflIkQHToUFenOHYL_-FG79UrtO_nBM-BVilxVdXhpTfdrwZ-Sqyutc5urUEuNbJanXMdL3rWt8rSfi5p0lqKvneQqvn0O4/s1600/Katalog-Promo-PSM-Alfamart-Terbaru-24-30-September-2026.jpg",
@@ -324,9 +324,9 @@ family: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW347BN4i7a3AGIMHKbHUdGmu5XHNtXreDXUY1DqW8eBIwGiuut8N6xJiPxkhAxFhC-n928lSZ9czQW7gFBEeVMYt_IUP5BmfK25nrnlovwiOMs3SZkoj8dD1MDOtFPo0rLgnyu9KLDVhsvGPQB1u_27gIXEK41o7EwDQfD4YradlfFNFG3iK0HJ_eCVOA/s1600/Promo-FamilyMart-Hemat-Banget-14-20-September-2026.jpg",
 ], 
 farmerweek: [
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY5oi9sQjiHwKi4Zlo7ZUUPf8Bu3-6FqifD5ggjbh8aFN-bWTJuFgIDd-u7hbYJUroW9RBCqTPcY1VdES2LnM9fDwT-CDwIFfhAs6jiKlmLBD5oYPJKB4P8C7y95Q0s2T1Fx5dmQidYusutInaf4jehUBzWozjYHP7Ncap6Qf3WZrPVmb0Nuy1PCkxz9Rj/s1600/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-11-17-September-2026-1.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFQNInDJjbJvq7uLg7VnX05cXi8STr3FNavbV-Y3dN8mou4pAnP4Jcm-l3KEGjdf8o30EW-wifZizGWLZci1tsu1V2KCcAERPLaXo6KmWE4mXhEGArIvbmSnIAYwhDFWQop1CLx6fXqGekEoYskQdSUDO63hQJboChmdPR2SauRo8P5SuYvK8PKiMcgno2/s1600/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-11-17-September-2026-2.jpg",
-"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi74O7TtJcQSVSlZhjWuyX79nr33cLJmAykW5jyH4LAjvG2LLd8OtJN8A1-rCCHorehkpRsqRs9DUZR51danZVqXDud6rRNhaLw6KSqvArM6TxRSv2GerEI3s5kTnmPrNNGogebYhdMR71Oo21FiWbpY3v7aMmVJDfD-_61Qu-yOnFFrelqhXxc8O5reYvh/s1600/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-11-17-September-2026-3.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNZ6FEVApybwYVP7yfWWMAOrThG-W5vSgDlF5P6C2gs2h1DHgudouzqYxGpfy_eZbapdT6y8XQs4oBUrOPELi3tgSxbWMpxWrSYgZKhDrSSjGePIW7hS5iuiImZmkTIQA02NnpSNzbEFMAjkU5wj1ciZXx5aLr7gn6dtgv7ZO_xHwKWJkrkcn_KAluQyEE/s1600/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-18-24-September-2026-1.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm0pjR7B_0bPppZMHlo_wuMr2-RjmjawdNqnfqoMM4nBBgLgJng9yYI59_x3uo6ou15Ek1iJM_Dp_cbvxHlWd3qslGVgWkEl0tTX1aZEd7mMu_AYBYDN7f0gHtJweZCGxlhlNPWHryN3vr4qLATXDTcrBPFJ7NQNXSsEeaPJwdA0JodTiDMAlv3m0-zuwC/s1600/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-18-24-September-2026-2.jpg",
+"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtqcpXe9Rxb_lFFZGcgGiqUEB759dT3U3Vpstn70KYhU7RKsBMWf3Mslna6lD48W70bqX9KUdqEZFYouCOYTl8LLgbewG_ihuY9gVQj5hUOVfC5Dh8OeaIYh09UIfvXf6xh3JtaisHcxEv23JHiR7sjQcbv4tvrrfzPtJPBAodxSmO7wdIXu5BfCwlz8hD/s1600/Katalog-Promo-JSM-Farmers-Market-Weekend-Terbaru-18-24-September-2026-3.jpg",
 ], 
 farmer: [
 "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZNSO6hyphenhyphenDMtkd8Go3okBDh6gluUpePThlbo2fB6VZCQkCHRXDF9laJVri-RkLLvwp3HEmzXyu5Wzl1e5GX6GoPOIAWeaD9BqAGfjE3-ffp8xwU2DzqMk7IDV81jOT5EDCzs56diQ-bfdyfp3dSx5o3XKxPH5Rsgvy35XfTuQy0jOp3InY3UxBoQ_m9M3kj/s1600/Promo-Katalog-Farmers-Market-Terbaru-14-27-Agustus-2026%20(1).jpg",
