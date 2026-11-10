@@ -432,9 +432,9 @@ tiptop: [
 
 oriflame: (() => {
   const arr = [];
-  for (let i = 1; i <= 119; i++) {
+  for (let i = 1; i <= 109; i++) {
     const num = String(i).padStart(3, '0');
-    arr.push(`http://harga-promo.com/gmbr/oriflame/26C09/${num}.jpg`);
+    arr.push(`http://harga-promo.com/gmbr/oriflame/26C11/${num}.jpg`);
   }
   return arr;
 })(),
